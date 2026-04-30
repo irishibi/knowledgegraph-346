@@ -1,0 +1,4630 @@
+[
+  {
+    "id": "ENT_001",
+    "canonical_name": "休谟",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "休谟",
+        "start_char": 0,
+        "end_char": 2,
+        "sentence": "休谟说牛顿发现了物的定律",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“休谟”。"
+  },
+  {
+    "id": "ENT_002",
+    "canonical_name": "牛顿",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "牛顿",
+        "start_char": 3,
+        "end_char": 5,
+        "sentence": "休谟说牛顿发现了物的定律",
+        "type_code": "PER"
+      },
+      {
+        "mention": "牛顿",
+        "start_char": 4152,
+        "end_char": 4154,
+        "sentence": "牛顿的《自然哲学的数学原理》开启了现代物理学，拉丁文书名中的Principia不仅是原理，还有第一性原理的意思",
+        "type_code": "PER"
+      },
+      {
+        "mention": "牛顿",
+        "start_char": 4222,
+        "end_char": 4224,
+        "sentence": "罗素和怀特海的大部头，借用了牛顿，直接是拉丁文Principia Mathematica（《数学原理》），讲的是逻辑，他们当然配得上",
+        "type_code": "PER"
+      },
+      {
+        "mention": "牛顿",
+        "start_char": 4285,
+        "end_char": 4287,
+        "sentence": "中学物理教科书都是从牛顿定律开始的",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“牛顿”。"
+  },
+  {
+    "id": "ENT_003",
+    "canonical_name": "艾伦·图灵",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "图灵",
+        "start_char": 25,
+        "end_char": 27,
+        "sentence": "一点也不夸张，我们可以说图灵（1912.6.23-1954.6.7）发现了心的定律，更准确地说是“论题”",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 78,
+        "end_char": 80,
+        "sentence": "1930年，不到十八岁的图灵经历了同学和爱人摩尔康之死，他伤心地给摩尔康的母亲写信：“我确信我和摩尔康会在彼岸再见，因为我们还有未竟的事业，原本就该在此岸完成",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 159,
+        "end_char": 161,
+        "sentence": "”1932年，不到二十岁的图灵再访摩尔康的母亲，并留宿摩尔康家，其间他写了一篇感人的短文《精神之本质》（“Nature of Spirit”），最后一段是这样的：“至于为什么我们非得有肉体不可：为什么我们不可以只有自由之精神，且只需精神间的交流",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 565,
+        "end_char": 567,
+        "sentence": "”（As regards the question of why we have bodies at all; why we do not or cannot live free as spirits & communicate as such, we probably could do so but there would be nothing whatsoever to do. The body provides something for the spirit to look after & use.）无疑，这是图灵后来不长的生涯的追求",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 580,
+        "end_char": 582,
+        "sentence": "图灵的所有贡献中，有两项是无与伦比的，第一是他1936年的文章《可计算的数》（“On Computable Numbers”，下文简称“图灵-1936”），其中他定义了一种机械装置，后来被他的导师丘奇（Church）称为“图灵机”",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 648,
+        "end_char": 650,
+        "sentence": "图灵的所有贡献中，有两项是无与伦比的，第一是他1936年的文章《可计算的数》（“On Computable Numbers”，下文简称“图灵-1936”），其中他定义了一种机械装置，后来被他的导师丘奇（Church）称为“图灵机”",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 848,
+        "end_char": 850,
+        "sentence": "第二是他1950年在哲学杂志《心》（Mind）上发表的文章《计算机与智能》（“Computing Machinery and Intelligence”，下文简称“图灵-1950”），这篇文章是人工智能领域的灯塔",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 991,
+        "end_char": 993,
+        "sentence": "怀特海有言“整个西方哲学传统就是柏拉图著作的一系列脚注”，我想借过来说：整个计算机科学，包括人工智能，就是图灵为数不多的著作的一系列脚注",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1081,
+        "end_char": 1083,
+        "sentence": "他们企图用“笛卡儿测试”替代“图灵测试”，从而抵消图灵为人工智能做出的贡献",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1113,
+        "end_char": 1115,
+        "sentence": "为图灵-1950写注释，是我三十年前头一次读这篇文章时就有的妄想",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1425,
+        "end_char": 1427,
+        "sentence": "我的灵感后来还受到《图灵的秘密》（The Annotated Turing）那本书的强化，作者佩措尔德（Petzold）给图灵-1936写了注释",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1476,
+        "end_char": 1478,
+        "sentence": "我的灵感后来还受到《图灵的秘密》（The Annotated Turing）那本书的强化，作者佩措尔德（Petzold）给图灵-1936写了注释",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1581,
+        "end_char": 1583,
+        "sentence": "另一方面，我渐渐意识到，要想理解图灵-1950，需要系统化地梳理预备知识",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1648,
+        "end_char": 1650,
+        "sentence": "图灵企图说明机器是可以有智能的，而这里的机器是普适或通用图灵机（UTM，Universal Turing Machine）",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1710,
+        "end_char": 1712,
+        "sentence": "图灵-1950是建立在图灵-1936（即“可计算的数”）之上的，这篇更早的经典论文奠定了计算机科学的理论基础，使计算机事业不仅仅是工程，更重要的是科学",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1721,
+        "end_char": 1723,
+        "sentence": "图灵-1950是建立在图灵-1936（即“可计算的数”）之上的，这篇更早的经典论文奠定了计算机科学的理论基础，使计算机事业不仅仅是工程，更重要的是科学",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1786,
+        "end_char": 1788,
+        "sentence": "图灵在关于智能的论证中，假设了丘奇-图灵论题，这是计算机科学的基石",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1804,
+        "end_char": 1806,
+        "sentence": "图灵在关于智能的论证中，假设了丘奇-图灵论题，这是计算机科学的基石",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1840,
+        "end_char": 1842,
+        "sentence": "无论是页码数，还是子标题数，计算理论占了图灵-1950一半以上的篇幅",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1875,
+        "end_char": 1877,
+        "sentence": "不了解计算理论及其演化历史，是没法搞明白图灵这篇文章的深意的",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1886,
+        "end_char": 1888,
+        "sentence": "图灵-1950和图灵-1936密不可分",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1894,
+        "end_char": 1896,
+        "sentence": "图灵-1950和图灵-1936密不可分",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1912,
+        "end_char": 1914,
+        "sentence": "在“为什么是图灵”一章中，我有意识地系统化重构计算理论的形成过程，并力图说明丘奇-图灵论题的哲学含义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1947,
+        "end_char": 1949,
+        "sentence": "在“为什么是图灵”一章中，我有意识地系统化重构计算理论的形成过程，并力图说明丘奇-图灵论题的哲学含义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1979,
+        "end_char": 1981,
+        "sentence": "这些成果变成了本书的几个章节，其中“为什么是图灵”讲可计算性，其核心是丘奇-图灵论题，“图灵与计算复杂性”讲复杂性，其核心是强丘奇-图灵论题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 1995,
+        "end_char": 1997,
+        "sentence": "这些成果变成了本书的几个章节，其中“为什么是图灵”讲可计算性，其核心是丘奇-图灵论题，“图灵与计算复杂性”讲复杂性，其核心是强丘奇-图灵论题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2001,
+        "end_char": 2003,
+        "sentence": "这些成果变成了本书的几个章节，其中“为什么是图灵”讲可计算性，其核心是丘奇-图灵论题，“图灵与计算复杂性”讲复杂性，其核心是强丘奇-图灵论题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2023,
+        "end_char": 2025,
+        "sentence": "这些成果变成了本书的几个章节，其中“为什么是图灵”讲可计算性，其核心是丘奇-图灵论题，“图灵与计算复杂性”讲复杂性，其核心是强丘奇-图灵论题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2195,
+        "end_char": 2197,
+        "sentence": "“图灵 vs 维特根斯坦”回顾了图灵1939年在剑桥和维特根斯坦的一学期遭遇，旨在更加容易了解两者的哲学态度",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2210,
+        "end_char": 2212,
+        "sentence": "“图灵 vs 维特根斯坦”回顾了图灵1939年在剑桥和维特根斯坦的一学期遭遇，旨在更加容易了解两者的哲学态度",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2372,
+        "end_char": 2374,
+        "sentence": "了解图灵的写作背景，也有助于理解文章的内容",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2419,
+        "end_char": 2421,
+        "sentence": "第二次世界大战结束后，英国国家物理实验室（NPL）力邀图灵加入，ACE（自动计算引擎，Automatic Computing Engine）是图灵为NPL设计的计算机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2463,
+        "end_char": 2465,
+        "sentence": "第二次世界大战结束后，英国国家物理实验室（NPL）力邀图灵加入，ACE（自动计算引擎，Automatic Computing Engine）是图灵为NPL设计的计算机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2486,
+        "end_char": 2488,
+        "sentence": "在NPL工作一年后，图灵厌恶其中的政治斗争，前往母校剑桥大学休假一年",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2515,
+        "end_char": 2517,
+        "sentence": "回来后，图灵给NPL提交了一份报告，题为《智能机器》（“Intelligent Machinery”，下文简称“图灵-1948”）",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2567,
+        "end_char": 2569,
+        "sentence": "回来后，图灵给NPL提交了一份报告，题为《智能机器》（“Intelligent Machinery”，下文简称“图灵-1948”）",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2612,
+        "end_char": 2614,
+        "sentence": "其实，如果我们仔细研读图灵-1948，会发现图灵-1950中思想的来龙去脉",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2623,
+        "end_char": 2625,
+        "sentence": "其实，如果我们仔细研读图灵-1948，会发现图灵-1950中思想的来龙去脉",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2639,
+        "end_char": 2641,
+        "sentence": "图灵-1948的内容更加广博，例如，图灵在其中详细讨论了神经网络，并认为可以训练神经网络，使之成为通用计算机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2657,
+        "end_char": 2659,
+        "sentence": "图灵-1948的内容更加广博，例如，图灵在其中详细讨论了神经网络，并认为可以训练神经网络，使之成为通用计算机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2793,
+        "end_char": 2795,
+        "sentence": "其实布鲁克斯更应该去图灵1932年在摩尔康家写的那篇短文中寻找灵感，图灵晚年更加关注没有肉体的精神",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2817,
+        "end_char": 2819,
+        "sentence": "其实布鲁克斯更应该去图灵1932年在摩尔康家写的那篇短文中寻找灵感，图灵晚年更加关注没有肉体的精神",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2936,
+        "end_char": 2938,
+        "sentence": "参加讨论的人，除了图灵外，还有图灵的老师、数学家纽曼和曼彻斯特大学的神经外科教授杰弗逊（Geoffrey Jefferson，1886-1961）等",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 2942,
+        "end_char": 2944,
+        "sentence": "参加讨论的人，除了图灵外，还有图灵的老师、数学家纽曼和曼彻斯特大学的神经外科教授杰弗逊（Geoffrey Jefferson，1886-1961）等",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3105,
+        "end_char": 3107,
+        "sentence": "图灵-1950中有一节（“来自意识的异议”）就是专门针对杰弗逊获奖演说的批评",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3155,
+        "end_char": 3157,
+        "sentence": "事实上，如果我们非要说图灵-1950和图灵-1948有什么实质性不同的话，图灵在写作图灵-1950时，内心有个更具体的辩论对象，那就是杰弗逊",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3163,
+        "end_char": 3165,
+        "sentence": "事实上，如果我们非要说图灵-1950和图灵-1948有什么实质性不同的话，图灵在写作图灵-1950时，内心有个更具体的辩论对象，那就是杰弗逊",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3181,
+        "end_char": 3183,
+        "sentence": "事实上，如果我们非要说图灵-1950和图灵-1948有什么实质性不同的话，图灵在写作图灵-1950时，内心有个更具体的辩论对象，那就是杰弗逊",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3186,
+        "end_char": 3188,
+        "sentence": "事实上，如果我们非要说图灵-1950和图灵-1948有什么实质性不同的话，图灵在写作图灵-1950时，内心有个更具体的辩论对象，那就是杰弗逊",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3215,
+        "end_char": 3217,
+        "sentence": "图灵参加过的讨论，留有完整记录的，除了图灵与维特根斯坦1939年在剑桥的课堂对谈，就是这次讨论了",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3234,
+        "end_char": 3236,
+        "sentence": "图灵参加过的讨论，留有完整记录的，除了图灵与维特根斯坦1939年在剑桥的课堂对谈，就是这次讨论了",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3269,
+        "end_char": 3271,
+        "sentence": "整场基本是图灵和杰弗逊之间的辩论，而纽曼无疑站在图灵一边",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3288,
+        "end_char": 3290,
+        "sentence": "整场基本是图灵和杰弗逊之间的辩论，而纽曼无疑站在图灵一边",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3334,
+        "end_char": 3336,
+        "sentence": "这篇讨论本身就可以作为图灵-1950的一个有趣且通俗的注解",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3969,
+        "end_char": 3971,
+        "sentence": "大语言模型的出现，又让我们有新的机会重新审视图灵-1950",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 3991,
+        "end_char": 3993,
+        "sentence": "不同路线的人工智能学者都能在图灵的著述中找到他们想要的东西",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 4012,
+        "end_char": 4014,
+        "sentence": "就像有人在图灵-1948看到了“具身智能”，而有人看到了深度学习",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 4068,
+        "end_char": 4070,
+        "sentence": "我们不仅可以泛泛地讨论大模型是否通过了图灵测试，也可以把图灵的思想和其他学科交叉考虑",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 4115,
+        "end_char": 4117,
+        "sentence": "”这个问题的思考，我们可以看到后来的乔姆斯基和图灵有诸多相似",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 4312,
+        "end_char": 4314,
+        "sentence": "在图灵看，图灵机和智能是一回事，图灵-1948和图灵-1950中关于智能的论述不过是图灵-1936中计算理论的科普版或者哲学注解",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 4327,
+        "end_char": 4329,
+        "sentence": "在图灵看，图灵机和智能是一回事，图灵-1948和图灵-1950中关于智能的论述不过是图灵-1936中计算理论的科普版或者哲学注解",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 4335,
+        "end_char": 4337,
+        "sentence": "在图灵看，图灵机和智能是一回事，图灵-1948和图灵-1950中关于智能的论述不过是图灵-1936中计算理论的科普版或者哲学注解",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 4353,
+        "end_char": 4355,
+        "sentence": "在图灵看，图灵机和智能是一回事，图灵-1948和图灵-1950中关于智能的论述不过是图灵-1936中计算理论的科普版或者哲学注解",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5409,
+        "end_char": 5411,
+        "sentence": "图灵-1950的早期中文译文曾作为附录，收录在我的《人工智能简史》中，当时为了赶时间，其中有很多不讲究的地方，甚至错误",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5484,
+        "end_char": 5486,
+        "sentence": "此番做注，给了我修正的机会：把图灵1948年的“智能机器”、杰弗逊1949年的“机器人之心”和1952年的BBC讨论一并译出，作为图灵-1950的补充阅读",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5534,
+        "end_char": 5536,
+        "sentence": "此番做注，给了我修正的机会：把图灵1948年的“智能机器”、杰弗逊1949年的“机器人之心”和1952年的BBC讨论一并译出，作为图灵-1950的补充阅读",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5575,
+        "end_char": 5577,
+        "sentence": "虽然在图灵漫不经心触碰到的所有领域，我们都能看到他思想的深邃，但必须承认图灵并无心在这些旁支上走太远，他更关心计算和智能的本质",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5608,
+        "end_char": 5610,
+        "sentence": "虽然在图灵漫不经心触碰到的所有领域，我们都能看到他思想的深邃，但必须承认图灵并无心在这些旁支上走太远，他更关心计算和智能的本质",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5636,
+        "end_char": 5638,
+        "sentence": "图灵-1950中的辩解几乎可以一字不动地适用于当下",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5710,
+        "end_char": 5712,
+        "sentence": "“现在你在电脑前读到这篇文章，很大程度上多亏了图灵",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5806,
+        "end_char": 5808,
+        "sentence": "2014年，由饰演新版福尔摩斯而红遍全球的英国演员“卷福” (Benedict Cumberbatch)主演的电影《模仿游戏》，让常被誉为“人工智能之父”的英国数学家图灵被大众所熟悉，尤其是他古怪的一面和悲剧的人生",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5833,
+        "end_char": 5835,
+        "sentence": "图灵于1912年生于伦敦",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5862,
+        "end_char": 5864,
+        "sentence": "因为父亲在英属印度文官机构工作，图灵从小在寄养家庭和寄宿学校长大",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5894,
+        "end_char": 5896,
+        "sentence": "从谢波恩公学和剑桥大学毕业后，图灵在普林斯顿大学取得博士学位，然后回到英国",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 5962,
+        "end_char": 5964,
+        "sentence": "二战时，图灵被招去政府通讯信总部（战时的政府密码学校）工作，为英国破译德军的密码，听命于军情六处（对，就是007系列中的MI6）指挥",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6025,
+        "end_char": 6027,
+        "sentence": "图灵小组设计的电机破译了德国的恩尼格码密码机（Enigma），成功扭转了战局",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6084,
+        "end_char": 6086,
+        "sentence": "尽管这些贡献一直到70年代都是国家机密，图灵还是在战后被乔治六世授予了大英帝国勋章（OBE），以表彰他在战争中的贡献",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6135,
+        "end_char": 6137,
+        "sentence": "但就像电影中描绘的那样，图灵的同事们也记得他的怪癖，比如为避免花粉，他会戴上毒气面罩",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6196,
+        "end_char": 6198,
+        "sentence": "他也确实有一位终生难忘的挚友，是他在谢波恩的学长克里斯多夫，图灵当年为追随他也希望进入剑桥，而克里斯多夫却因为肺结核在十八岁时早早病逝",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6247,
+        "end_char": 6249,
+        "sentence": "近日英国《卫报》报道，图灵生前的一百五十多信件被偶然发现，让大家好奇这些信件能诉说什么样的故事",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6294,
+        "end_char": 6296,
+        "sentence": "这些信件被发现于图灵曾经工作过的曼彻斯特大学，被时光遗忘了数十载，最近有人在清理储藏室的时候偶然发现",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6354,
+        "end_char": 6356,
+        "sentence": "信件跨时1949至1954年：当时图灵刚完成在政府密码学校和国家物理实验室的工作，在曼彻斯特大学任计算机实验室的副主任",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6401,
+        "end_char": 6403,
+        "sentence": "在那里，图灵撰写下了被认为是人工智能宣言的文稿，发表了具有里程碑意义的论文“计算机器与智能”(Computing Machinery and Intelligence)，在其中提出了著名的图灵测试，也参与了包括BBC在内的电台广播，向大众介绍计算机的概念，还参与设计了世上最早的存储程序计算机之一",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6552,
+        "end_char": 6554,
+        "sentence": "1951年，图灵当选为皇家学会会员——英国最具威望的机构认可了他的才能和成就",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6594,
+        "end_char": 6596,
+        "sentence": "但曼彻斯特也为图灵短暂的一生划上了句号：1952年，图灵向警方报告了一起入室抢劫案，警方认为他与男性有不正当亲密关系而将他逮捕：当时英国规定同性恋行属于严重猥亵罪（gross indecency），刑罚通常是牢狱或激素注射，以改造当事人",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6613,
+        "end_char": 6615,
+        "sentence": "但曼彻斯特也为图灵短暂的一生划上了句号：1952年，图灵向警方报告了一起入室抢劫案，警方认为他与男性有不正当亲密关系而将他逮捕：当时英国规定同性恋行属于严重猥亵罪（gross indecency），刑罚通常是牢狱或激素注射，以改造当事人",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6706,
+        "end_char": 6708,
+        "sentence": "图灵选择了长达两年的激素注射",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6758,
+        "end_char": 6760,
+        "sentence": "1954年，就在图灵42岁生日前不久，他在曼彻斯特的寓所里悄然辞世",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6788,
+        "end_char": 6790,
+        "sentence": "通常认为图灵使用了氰化钾自杀，但这一看法近年被图灵专家和哲学家Jack Copeland等学者质疑，认为这很可能是一场意外",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6807,
+        "end_char": 6809,
+        "sentence": "通常认为图灵使用了氰化钾自杀，但这一看法近年被图灵专家和哲学家Jack Copeland等学者质疑，认为这很可能是一场意外",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6855,
+        "end_char": 6857,
+        "sentence": "尽管在2013年，图灵逝世六十一年后得到皇家赦免，他曾遭受的刑判和在盛年过世的遗憾依然让世人唏嘘",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6896,
+        "end_char": 6898,
+        "sentence": "但图灵在很大程度上推进了当代的LGBT群体平权运动，2009年，英国国家肖像博物馆也将图灵包括在“同性恋偶像”的展览中",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6938,
+        "end_char": 6940,
+        "sentence": "但图灵在很大程度上推进了当代的LGBT群体平权运动，2009年，英国国家肖像博物馆也将图灵包括在“同性恋偶像”的展览中",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6972,
+        "end_char": 6974,
+        "sentence": "曼彻斯特大学发现的这批信件多与图灵的工作有关，包括研究人工智能问题的手稿，也包括邀请图灵去美国高等院校演讲的信函",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 6999,
+        "end_char": 7001,
+        "sentence": "曼彻斯特大学发现的这批信件多与图灵的工作有关，包括研究人工智能问题的手稿，也包括邀请图灵去美国高等院校演讲的信函",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7070,
+        "end_char": 7072,
+        "sentence": "”，已有一份经由图灵修改的手稿藏于剑桥大学国王学院",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7110,
+        "end_char": 7112,
+        "sentence": "尽管个人色彩极少，此次发现的信件中也可以看出图灵本人对美国并不感冒，比如他曾戏称“美国流氓”——尽管他曾在普林斯顿攻读博士学位",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7269,
+        "end_char": 7271,
+        "sentence": "更能看出图灵人生经历的私人信件，早已由他的母亲捐赠给图灵曾经就读的剑桥国王大学学院图书馆",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7291,
+        "end_char": 7293,
+        "sentence": "更能看出图灵人生经历的私人信件，早已由他的母亲捐赠给图灵曾经就读的剑桥国王大学学院图书馆",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7320,
+        "end_char": 7322,
+        "sentence": "另一部分档案，也存于图灵曾经就读的谢波恩公学",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7348,
+        "end_char": 7350,
+        "sentence": "因为是寄宿学校，档案中包括大量图灵当时寄给家里人的信，从中可管窥这位天才少年的心路历程",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7467,
+        "end_char": 7469,
+        "sentence": "这所公学也在档案馆展示着他们的明星校友，除了图灵外，还有曾出演《洛丽塔》、《故园风雨后》等作品的著名演员杰瑞米·艾恩斯（Jeremy Irons）和《唐顿庄园》中老爷的扮演者Hugh Bonneville",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7556,
+        "end_char": 7558,
+        "sentence": "事实上，结合图灵的信件和学术论文，不但可以发现他的人生轨迹和挣扎私语，还能发现研究和想法上的精进，包括对人工智能构想的完善，和最后阶段对人工生命化学和生物学研究",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7641,
+        "end_char": 7643,
+        "sentence": "在人工生命的研究中，图灵也运用了在曼彻斯特大学计算机实验室工作时参与设计的Mark I计算机来生成合子形态基因的化学机制",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7728,
+        "end_char": 7730,
+        "sentence": "进一步解读他的信件和研究更会发现，这两者其实有相辅相成的关联：终其一生，图灵都在寻找人类可以理解自我、超越自我的方式",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7762,
+        "end_char": 7764,
+        "sentence": "譬如在1954年，图灵在曼彻斯特的寓所突然死亡前的一个月，他在给好友的明信片里写道，",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7862,
+        "end_char": 7864,
+        "sentence": "这就包含了一个鲜明的图灵个人标记：用科学（数学）框架来探讨有关深层的存在论和本体论问题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7896,
+        "end_char": 7898,
+        "sentence": "图灵给这一批明信片起名为“来自看不见的世界的信”，出自他非常敬重的英国科学家亚瑟·艾丁顿——艾丁顿也是一名虔诚的贵格会信徒，在他被图灵引用的作品《科学与看不见的世界》中曾谈到超验与科学的平衡",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 7961,
+        "end_char": 7963,
+        "sentence": "图灵给这一批明信片起名为“来自看不见的世界的信”，出自他非常敬重的英国科学家亚瑟·艾丁顿——艾丁顿也是一名虔诚的贵格会信徒，在他被图灵引用的作品《科学与看不见的世界》中曾谈到超验与科学的平衡",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8004,
+        "end_char": 8006,
+        "sentence": "房东太太第二天才发现图灵的尸体",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8064,
+        "end_char": 8066,
+        "sentence": "2015年的奥斯卡颁奖礼上，电影《模仿游戏》获得剧本改编奖，其剧作者的一番感言在网络上走红，为大家默认的图灵的边缘化人格作了肯定：“ 在我十六岁的时候我想过自杀，因为觉得自己太古怪、和别人不同、格格不入、无所适从",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8153,
+        "end_char": 8155,
+        "sentence": "但图灵并非为人怪异而默默无闻的无名小卒",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8223,
+        "end_char": 8225,
+        "sentence": "许多怀念图灵的人也表示他尽管笨拙，却非常开朗和幽默，甚至在同性恋行为在英国被定义为严重猥亵罪的1940年代，敢于公开承认自己的性向",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8320,
+        "end_char": 8322,
+        "sentence": "另一方面，卷福是那种在人群中会发光、天生具有个人魅力的演员，他可以演出图灵的古怪，但不能表现图灵的随和、朴素和寻常，也因此抹杀了图灵对广大普通人的意义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8331,
+        "end_char": 8333,
+        "sentence": "另一方面，卷福是那种在人群中会发光、天生具有个人魅力的演员，他可以演出图灵的古怪，但不能表现图灵的随和、朴素和寻常，也因此抹杀了图灵对广大普通人的意义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8349,
+        "end_char": 8351,
+        "sentence": "另一方面，卷福是那种在人群中会发光、天生具有个人魅力的演员，他可以演出图灵的古怪，但不能表现图灵的随和、朴素和寻常，也因此抹杀了图灵对广大普通人的意义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8379,
+        "end_char": 8381,
+        "sentence": "不过，电影提到了一个重要的方面：图灵的科学研究与他的人生经历息息相关，且相互启发：在他因为同性恋行为而被捕和处罚后，图灵曾在给朋友的信里写道：",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8421,
+        "end_char": 8423,
+        "sentence": "不过，电影提到了一个重要的方面：图灵的科学研究与他的人生经历息息相关，且相互启发：在他因为同性恋行为而被捕和处罚后，图灵曾在给朋友的信里写道：",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8436,
+        "end_char": 8438,
+        "sentence": "图灵认为电脑可以思考",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8448,
+        "end_char": 8450,
+        "sentence": "图灵与男人同床",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8459,
+        "end_char": 8461,
+        "sentence": "因此图灵的电脑无法思考",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8479,
+        "end_char": 8481,
+        "sentence": "从中我们可以看到，图灵担心自己的个人生活会影响他的研究，而他的研究和思想是他向世人证明自己的方式",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8522,
+        "end_char": 8524,
+        "sentence": "当时的图灵已经被判定要接受两年的荷尔蒙注射以达到改造他性向、将他“治疗”成“正常人”",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8567,
+        "end_char": 8569,
+        "sentence": "讽刺的是，图灵本身一辈子都致力于如何用新的数理和机械的方式重新定义人本身，而如今他作为个体的尊严和存在却被怀疑、否定和重新定义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8648,
+        "end_char": 8650,
+        "sentence": "图灵“机器智能”（machine intelligence）概念的背后有深层的个人与社会文化因素",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8801,
+        "end_char": 8803,
+        "sentence": "他所设想不受物理条件限制的、理想化的机器智能是对人类心灵的概念化模拟，这种概念化模拟抽象并机械化了人类心灵，蕴含着他对自我认同的期许——作为一个孤僻的天才少年及同性恋者，因同性恋当时在英国违法且有悖社会道德，图灵始终希望能像他的智能机器那样自由",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 8950,
+        "end_char": 8952,
+        "sentence": "建立在图灵的机器智能理念上的人工智能作为一名学科，也寄予着人类自我理解、再造及自我超越的意向",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9168,
+        "end_char": 9170,
+        "sentence": "被誉为“人工智能之父”的图灵是位数学家，他用数学和机械对自我机制和本质的探索、模拟、再造，实际上改变了人通常作为不可化约的“万物之灵”的概念",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9231,
+        "end_char": 9233,
+        "sentence": "换言之，图灵重新定义了人的概念，提出一种全新的人类身份",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9300,
+        "end_char": 9302,
+        "sentence": "从这一方面而言，图灵的理念使得人（被造物）僭越了神（造物主）的位置，也是他当时所招致的批评之一",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9342,
+        "end_char": 9344,
+        "sentence": "图灵成长的时代，科学与哲学的分界并不那么泾渭分明，许多科学家也是哲学家，比如罗素",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9385,
+        "end_char": 9387,
+        "sentence": "影响图灵思想的三个理论源头，包括德国理想主义（或译作唯心主义）、大卫·希尔伯特和库尔特·哥德尔的数学哲学、虔诚的贵格会教徒亚瑟·艾丁顿的物理学，在各自的科学学说中都关注本体论和知识论的问题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9482,
+        "end_char": 9484,
+        "sentence": "艾丁顿对图灵的影响尤其深刻，图灵的最后几封明信片都引自艾丁顿的著作，“来自看不见的世界的讯息”，“科学是微分方程，宗教是边界条件”，暗含图灵死前对科学如何理解和表达生死以及人类意义的本体论思考",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9492,
+        "end_char": 9494,
+        "sentence": "艾丁顿对图灵的影响尤其深刻，图灵的最后几封明信片都引自艾丁顿的著作，“来自看不见的世界的讯息”，“科学是微分方程，宗教是边界条件”，暗含图灵死前对科学如何理解和表达生死以及人类意义的本体论思考",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9546,
+        "end_char": 9548,
+        "sentence": "艾丁顿对图灵的影响尤其深刻，图灵的最后几封明信片都引自艾丁顿的著作，“来自看不见的世界的讯息”，“科学是微分方程，宗教是边界条件”，暗含图灵死前对科学如何理解和表达生死以及人类意义的本体论思考",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9608,
+        "end_char": 9610,
+        "sentence": "引用图灵的话来说，科学的度量成了看不见、摸不着的形而上学，包括“量子”、“中子”等概念",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9666,
+        "end_char": 9668,
+        "sentence": "而这些形而上概念都源自构想，因此图灵曾评论道，“从量子科学开始，科学也开始包含人类心灵的映射",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9721,
+        "end_char": 9723,
+        "sentence": "图灵将人类心灵抽象为一系列符号的运作，并将其作为机械进行研究和模拟，而不是比其他生物和机器更高一级的存在",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 9993,
+        "end_char": 9995,
+        "sentence": "研究图灵在人工智能和计算机方面的著作，很少探究其理论的深层意义；而关注图灵人生际遇的报道和传记，也很少将他的科学理论和人生反思结合——更罕见的是探讨他在科学研究和人生反思中对“自我”的追寻中所蕴涵的本体论意义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 10026,
+        "end_char": 10028,
+        "sentence": "研究图灵在人工智能和计算机方面的著作，很少探究其理论的深层意义；而关注图灵人生际遇的报道和传记，也很少将他的科学理论和人生反思结合——更罕见的是探讨他在科学研究和人生反思中对“自我”的追寻中所蕴涵的本体论意义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 10096,
+        "end_char": 10098,
+        "sentence": "图灵在克里斯多夫去世后给他的母亲写信，信中探讨灵性/精神的本质：无关宗教信仰，却攸关对人之为人的反思",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 10204,
+        "end_char": 10206,
+        "sentence": "如果说图灵在《模仿游戏》突出了他破解的德国密码，那么他借机器大脑而作的本体论反思则可谓是一种灵性密码",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 10551,
+        "end_char": 10553,
+        "sentence": "我们太惯常将科学与无神论归为一谈，图灵在英国也被作为“无神论同性恋勇士”而纪念",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 10577,
+        "end_char": 10579,
+        "sentence": "但细看图灵的作品，他从未自称无神论者，反而经常谈及宗教，譬如在上文提到的那封明信片里",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 10623,
+        "end_char": 10625,
+        "sentence": "但另一方面，图灵的理论确实被当时的宗教观视为大逆不道，譬如声称人类智识并不由神赐予，而是一个信息处理机器",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 10673,
+        "end_char": 10675,
+        "sentence": "由此，图灵重新定义了人们对大脑和心灵的理解，也重新定义了人何以为人",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 11388,
+        "end_char": 11390,
+        "sentence": "一位 23 岁名叫艾伦图灵的研究生提出了这个定义，他在 1936 年写了一篇开创性论文，不仅将计算的概念形式化表达了出来，还证明了数学的一个基本问题，为发明电子计算机创造了知识基础",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 11468,
+        "end_char": 11470,
+        "sentence": "图灵的伟大远见在于以抽象机器的形式为计算问题提供了具体的答案，后来他的博导阿朗佐丘奇将其命名为图灵机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 11598,
+        "end_char": 11600,
+        "sentence": "当艾伦图灵在 1936 年发明图灵机时，也创造了现代计算",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 11628,
+        "end_char": 11630,
+        "sentence": "艾伦・图灵及他的图灵机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 12379,
+        "end_char": 12381,
+        "sentence": "艾伦图灵帮助定义了计算、算法和图灵机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 12411,
+        "end_char": 12413,
+        "sentence": "图灵使用他的抽象机器建立了一个计算模型，来回答 Entscheidungs 问题，它正式提出：给定一组数学公理，是否存在一个机械过程（即一组指令，今天我们称之为算法）总是可以确定给定的陈述是否为真",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 12706,
+        "end_char": 12708,
+        "sentence": "然而，在 1936 年，美国数学家丘奇和图灵使用不同的方法分别证明了「没有通用方法可以解决 Entscheidungs 问题的每个例子",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 12805,
+        "end_char": 12807,
+        "sentence": "图灵表明了，如果存在可以执行所需任务的算法，则函数是可计算的",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 12978,
+        "end_char": 12980,
+        "sentence": "我觉得人们普遍认为，邱奇 - 图灵论题提出的是，算法的非正式概念就是任何合理计算模型可以做到的事情",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 13119,
+        "end_char": 13121,
+        "sentence": "就在哲学家、逻辑学家和数学家库尔特・哥德尔证明数学是不完备的几年后，丘奇和图灵也通过这项工作表表明了数学中的某些问题是不可判定的",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 13934,
+        "end_char": 13936,
+        "sentence": "106年前的今天（6月23日），阿兰·麦席森·图灵在英国伦敦出生",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 13954,
+        "end_char": 13956,
+        "sentence": "1968年，也就是图灵逝世14年后，一份此前从未发表过的图灵论文原稿出现在了《科学美国人》杂志上",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 13973,
+        "end_char": 13975,
+        "sentence": "1968年，也就是图灵逝世14年后，一份此前从未发表过的图灵论文原稿出现在了《科学美国人》杂志上",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 14019,
+        "end_char": 14021,
+        "sentence": "在这篇写于1948年、题为《智能机器》的论文里，图灵第一次为世人勾勒出了人工智能领域的轮廓",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 14130,
+        "end_char": 14132,
+        "sentence": "然而，图灵这篇跨时代的论文在当时被自己的领导、英国国家物理实验室主任查尔斯·达尔文斥之为“小学生作文”，不予发表",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 14214,
+        "end_char": 14216,
+        "sentence": "观其一生，图灵对于宣扬自己的思想始终缺乏足够的热情",
+        "type_code": "PER"
+      },
+      {
+        "mention": "阿兰·图灵",
+        "start_char": 14284,
+        "end_char": 14289,
+        "sentence": "如同那份被埋藏的论文手稿——阿兰·图灵，最终成为了被遗忘的那个人",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 14320,
+        "end_char": 14322,
+        "sentence": "1935年，图灵23岁",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 14577,
+        "end_char": 14579,
+        "sentence": "在1935年，图灵的目标是设计出一台尽可能简单的机器，让它能在无限的时间、功耗、纸和笔以及完美的专注度下进行任何人类数学家能够借助算法完成的计算",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 14669,
+        "end_char": 14671,
+        "sentence": "图灵本人曾写过：“电子计算机是为了执行任意特定的、依靠经验法则的处理进程，这些进程原本可以由人类以一种有规则但却笨拙的方式完成",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 14740,
+        "end_char": 14742,
+        "sentence": "理论而言，图灵成功了",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 15369,
+        "end_char": 15371,
+        "sentence": "图灵本人成为了第一个对所谓“超计算机”的构想进行研究的人",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 15416,
+        "end_char": 15418,
+        "sentence": "1938年，在自己的博士学位论文中，图灵描绘了“一种全新的机器”——“预言机”（O-machine）",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 15617,
+        "end_char": 15619,
+        "sentence": "图灵并没有说明“预言家”是如何工作的（他也从没解释过通用图灵机的那些基本行为——识别扫描器中的符号”是如何实现的）",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 15966,
+        "end_char": 15968,
+        "sentence": "在数理逻辑之外，图灵的”“预言机”“几乎被忘得一干二净；相反，一个神话被人们供奉了起来：在一份子虚乌有的记录中，图灵在二十世纪三十年代中期成功证明了超机器是可能的——传言中，他与自己在普林斯顿大学的博士生导师阿隆佐·邱奇宣称一台通用图灵机可以精确地模拟任何其他信息处理机器的行为",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16014,
+        "end_char": 16016,
+        "sentence": "在数理逻辑之外，图灵的”“预言机”“几乎被忘得一干二净；相反，一个神话被人们供奉了起来：在一份子虚乌有的记录中，图灵在二十世纪三十年代中期成功证明了超机器是可能的——传言中，他与自己在普林斯顿大学的博士生导师阿隆佐·邱奇宣称一台通用图灵机可以精确地模拟任何其他信息处理机器的行为",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16111,
+        "end_char": 16113,
+        "sentence": "这条被广为误读的“邱奇—图灵论题”意味着，没有机器能够解决通用图灵机能力范围之外的任务",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16152,
+        "end_char": 16154,
+        "sentence": "但事实上，邱奇和图灵只说过，一台通用图灵机能够模拟任何人类数学家在使用笔和纸的情况下借助算法完成的工作——对于一个神话而言，这个命题显然过于薄弱了",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16219,
+        "end_char": 16221,
+        "sentence": "图灵对于超计算机的理论贡献无疑被忽视了——即便是对于工作于这一领域的研究者而言",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16274,
+        "end_char": 16276,
+        "sentence": "专家们永远谈论的是要执行“超越图灵局限”的信息处理任务，称自己的工作是在尝试“打破图灵障碍”",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16300,
+        "end_char": 16302,
+        "sentence": "专家们永远谈论的是要执行“超越图灵局限”的信息处理任务，称自己的工作是在尝试“打破图灵障碍”",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16338,
+        "end_char": 16340,
+        "sentence": "《新科学家》杂志上曾有一篇报道甚至声称，全新的机器已经“超出了图灵的概念范畴”，它们是“图灵从未构想到的计算机类型”……",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16351,
+        "end_char": 16353,
+        "sentence": "《新科学家》杂志上曾有一篇报道甚至声称，全新的机器已经“超出了图灵的概念范畴”，它们是“图灵从未构想到的计算机类型”……",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16406,
+        "end_char": 16408,
+        "sentence": "忧伤的是，那只不过是图灵联结主义思想的又一次复活罢了",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16425,
+        "end_char": 16427,
+        "sentence": "图灵联结",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16613,
+        "end_char": 16615,
+        "sentence": "1948年，图灵36岁",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16655,
+        "end_char": 16657,
+        "sentence": "在论文中，图灵发明了一种他称之为“B型非结构化机器”的神经网络，包含人工神经元以及可以对神经元之间的联结进行调节的设备",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 16990,
+        "end_char": 16992,
+        "sentence": "这一独创性的设计使得B型非结构化机器能够以图灵称之为“适度干预，摹拟教育”的方式来进行训练",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17024,
+        "end_char": 17026,
+        "sentence": "事实上，正是图灵创立了“幼儿的皮层是一个非结构化机器，可以通过适度干预训练来实现结构化”的理论",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17067,
+        "end_char": 17069,
+        "sentence": "图灵设计的每个神经元模型都有两条输入光纤，而每个神经元的输出就是两个输入的逻辑函数",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17176,
+        "end_char": 17178,
+        "sentence": "图灵选择“与非”是因为所有其他的（布尔）逻辑操作都可以通过与非神经元的组合实现",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17221,
+        "end_char": 17223,
+        "sentence": "更进一步，图灵还证明了连联结调节器本身也能通过“与非”来构建",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17250,
+        "end_char": 17252,
+        "sentence": "因而，图灵指定了一种只由与非神经元和它们的联结光纤所构成的网络——这也几乎是最简单的大脑皮层模型",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17442,
+        "end_char": 17444,
+        "sentence": "图灵的B型非结构化机器的训练过程，同时包含了毁灭和创造两种形式",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17475,
+        "end_char": 17477,
+        "sentence": "图灵还希望能够发掘其他种类的非结构化机器，他一直想用一台普通的数字计算机对一个神经网络极其训练机制进行模拟",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17613,
+        "end_char": 17615,
+        "sentence": "然而，在用上第一批通用电子计算机之前，图灵就已经开始了自己在神经网络方面的工作（1954年Belmont G. Farley和Wesley A. Clark在MIT成功运行了对于小型神经网络的首次电脑模拟）",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17702,
+        "end_char": 17704,
+        "sentence": "尽管图灵单单用纸和笔就能够证明，一个足够大的B型神经网络经过如此配置之后就能变成一台通用计算机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 17881,
+        "end_char": 17883,
+        "sentence": "图灵的发现则为这一问题指明了一个方向：自上而下来看，如通用计算机一般工作的神经网络能够执行那些连续的、富于符号表征的处理工作，因此应该把关注点放在大脑皮层上",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18023,
+        "end_char": 18025,
+        "sentence": "1950年，图灵38岁",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18041,
+        "end_char": 18043,
+        "sentence": "在自己生命的最后几年，图灵开辟了人工生命的全新领域",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18212,
+        "end_char": 18214,
+        "sentence": "在那几年，图灵成为了第一个在计算机辅助下进行非线性动力系统研究的人",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18299,
+        "end_char": 18301,
+        "sentence": "1954年6月8日，图灵被发现在自己的卧室中死于氰化物中毒",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18332,
+        "end_char": 18334,
+        "sentence": "除了那颗被咬掉一口的苹果，图灵还留下了一大摞手写的笔记和一些计算机程序",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾伦·图灵",
+        "start_char": 18529,
+        "end_char": 18534,
+        "sentence": "在谈到人类智慧与机器智能的交汇时，我们无法绕过一个闪耀的名字——艾伦·图灵",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18589,
+        "end_char": 18591,
+        "sentence": "从二战时期破解 Enigma，到提出划时代的图灵机和图灵测试，图灵的工作不仅推动了计算机科学的发展，他的思想和创新在当今的科技世界中依然熠熠生辉",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾伦·图灵",
+        "start_char": 18679,
+        "end_char": 18684,
+        "sentence": "艾伦·图灵（Alan Turing），1912 年 6 月 23 日出生在英国伦敦的一个富裕家庭",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18745,
+        "end_char": 18747,
+        "sentence": "他的母亲希望他走经典教育的道路，但图灵却对数学和科学情有独钟",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18764,
+        "end_char": 18766,
+        "sentence": "在中学时，图灵已经显示出卓越的数学才能，特别是在解决复杂问题和逻辑推理方面",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18883,
+        "end_char": 18885,
+        "sentence": "剑桥大学国王学院，图灵于1931年成为本科生，并在1935年成为研究员",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 18933,
+        "end_char": 18935,
+        "sentence": "1936 年，图灵发表了划时代的论文《论可计算数》，在这篇论文中，他提出了图灵机的概念",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 19019,
+        "end_char": 19021,
+        "sentence": "1936 年至 1938 年，图灵在美国普林斯顿大学跟随著名数学家阿隆佐·丘奇学习，并获得了博士学位",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 19131,
+        "end_char": 19133,
+        "sentence": "1939 年，第二次世界大战开始，在白金汉郡布莱切利庄园的战时密码分析总部，图灵开始了高度保密的工作——破解德国的 Enigma",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 19204,
+        "end_char": 19206,
+        "sentence": "图灵的工作极大地加速了密码破译过程，为盟军获得关键情报并最终赢得战争做出了重大贡献",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 19494,
+        "end_char": 19496,
+        "sentence": "图灵的神秘去世，至今仍给人留下无尽的猜想和悬念，成为了他传奇一生不可磨灭的一部分",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾伦·图灵",
+        "start_char": 19572,
+        "end_char": 19577,
+        "sentence": "著名数学家、 逻辑学家戴维斯(Martin Davis)亲自在霍奇斯的《艾伦·图灵传: 如谜的解谜者》中写过一段评论，最后一句是：“对图灵的指控是悲剧，他应该被当作民族英雄",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 19603,
+        "end_char": 19605,
+        "sentence": "著名数学家、 逻辑学家戴维斯(Martin Davis)亲自在霍奇斯的《艾伦·图灵传: 如谜的解谜者》中写过一段评论，最后一句是：“对图灵的指控是悲剧，他应该被当作民族英雄",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 19649,
+        "end_char": 19651,
+        "sentence": "2009 年，英国前首相戈登·布朗代表英国政府为图灵当年受到的不公正待遇公开致歉，2013 年他获得了英国皇家特赦，他终得平反",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 19740,
+        "end_char": 19742,
+        "sentence": "图灵最重要的贡献无疑是他 1936 年的那篇文章《论可计算数》（On Computable Numbers, with an Application to the Entscheidungsproblem）， 其中他定义了一种机械装置，后来被他的导师丘奇称为“图灵机”",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 19944,
+        "end_char": 19946,
+        "sentence": "在这篇论文中，图灵提出了图灵机的概念，将计算过程抽象成一系列简单的操作步骤，可以通过读取和写入纸带上的符号来完成",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 20041,
+        "end_char": 20043,
+        "sentence": "图灵证明了某些数学问题是不可解的，即没有算法能够在有限时间内解决所有输入的情况下得出确定的答案",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 20208,
+        "end_char": 20210,
+        "sentence": "图灵 1950 年在哲学杂志《心》上发表的文章《计算机与智能》（Computing Machinery and Intelligence）中把“机器能思考吗”的问题转换为一种模仿游戏——后世称为“图灵测试”，这是人工智能的起源",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 20323,
+        "end_char": 20325,
+        "sentence": "图灵– 1950，《计算机与智能》发表在《心》上",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 20623,
+        "end_char": 20625,
+        "sentence": "图灵认为智能不仅仅是逻辑和计算能力，更涉及学习、理解和创造力",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 20733,
+        "end_char": 20735,
+        "sentence": "大模型时代，图灵影响力依旧",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾伦·图灵",
+        "start_char": 20741,
+        "end_char": 20746,
+        "sentence": "艾伦·图灵的工作为现代计算理论奠定了基础，尤其是通过图灵机这一概念，不仅帮助我们理解计算的本质，还为自然语言处理和机器学习等复杂过程铺平了道路",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 20868,
+        "end_char": 20870,
+        "sentence": "图灵的计算理论直接影响了从简单算法到复杂大规模 AI 模型的发展，使得今天的深度学习和神经网络成为可能",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 20961,
+        "end_char": 20963,
+        "sentence": "在大数据和人工智能主导的今天，像 GPT-4 这样的先进语言模型实际上深深植根于图灵的理论和思想",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21017,
+        "end_char": 21019,
+        "sentence": "现代大模型能够处理多种数据类型，广泛应用于翻译、对话系统、文本生成等领域，这些应用的实现离不开图灵奠定的计算基础",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21027,
+        "end_char": 21029,
+        "sentence": "图灵的贡献不仅揭示了计算的本质，还为实际应用提供了坚实的理论支持，他的工作开启了计算机科学的新时代，并引领我们进入了人工智能的辉煌时代",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21105,
+        "end_char": 21107,
+        "sentence": "不仅限于技术层面，图灵的个人遭遇也引起了对性取向和隐私权的广泛讨论，推动了社会对 LGBTQ+ 群体权利的认同和尊重",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21155,
+        "end_char": 21157,
+        "sentence": "图灵的故事成为了争取平等权利和反对歧视的象征",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21185,
+        "end_char": 21187,
+        "sentence": "在艺术领域，图灵的形象和故事在电影、书籍、艺术作品和博物馆展览中广泛传播，成为流行文化的一部分",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21231,
+        "end_char": 21233,
+        "sentence": "《理解图灵》重磅上市",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21252,
+        "end_char": 21254,
+        "sentence": "70 年后的今天，我们缅怀图灵，我们用一本书致敬他，不仅是为了纪念他的过去，更是为了启迪我们的未来",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21298,
+        "end_char": 21300,
+        "sentence": "这本书从多角度剖析图灵的一生与学术成就，带你深入图灵思想世界，领略智能的本质",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21313,
+        "end_char": 21315,
+        "sentence": "这本书从多角度剖析图灵的一生与学术成就，带你深入图灵思想世界，领略智能的本质",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21396,
+        "end_char": 21398,
+        "sentence": "这本书由中华优秀出版物图书奖得主、吴文俊奖获得者、央视“2017 年度中国好书”作者张晓东（尼克）创作，是当代最好的一本全方位深入了解图灵的佳作",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21409,
+        "end_char": 21411,
+        "sentence": "也是普通人认识图灵的最好的一部作品",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21441,
+        "end_char": 21443,
+        "sentence": "全方位了解计算机科学奠基人和人工智能先驱图灵的生平和思想，追溯图灵的生平和思想轨迹，深入探讨图灵思想，深刻领会图灵文章内涵",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21452,
+        "end_char": 21454,
+        "sentence": "全方位了解计算机科学奠基人和人工智能先驱图灵的生平和思想，追溯图灵的生平和思想轨迹，深入探讨图灵思想，深刻领会图灵文章内涵",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21467,
+        "end_char": 21469,
+        "sentence": "全方位了解计算机科学奠基人和人工智能先驱图灵的生平和思想，追溯图灵的生平和思想轨迹，深入探讨图灵思想，深刻领会图灵文章内涵",
+        "type_code": "PER"
+      },
+      {
+        "mention": "图灵",
+        "start_char": 21476,
+        "end_char": 21478,
+        "sentence": "全方位了解计算机科学奠基人和人工智能先驱图灵的生平和思想，追溯图灵的生平和思想轨迹，深入探讨图灵思想，深刻领会图灵文章内涵",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“艾伦·图灵”。"
+  },
+  {
+    "id": "ENT_004",
+    "canonical_name": "克里斯多夫·摩尔康",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "摩尔康",
+        "start_char": 88,
+        "end_char": 91,
+        "sentence": "1930年，不到十八岁的图灵经历了同学和爱人摩尔康之死，他伤心地给摩尔康的母亲写信：“我确信我和摩尔康会在彼岸再见，因为我们还有未竟的事业，原本就该在此岸完成",
+        "type_code": "PER"
+      },
+      {
+        "mention": "摩尔康",
+        "start_char": 99,
+        "end_char": 102,
+        "sentence": "1930年，不到十八岁的图灵经历了同学和爱人摩尔康之死，他伤心地给摩尔康的母亲写信：“我确信我和摩尔康会在彼岸再见，因为我们还有未竟的事业，原本就该在此岸完成",
+        "type_code": "PER"
+      },
+      {
+        "mention": "摩尔康",
+        "start_char": 114,
+        "end_char": 117,
+        "sentence": "1930年，不到十八岁的图灵经历了同学和爱人摩尔康之死，他伤心地给摩尔康的母亲写信：“我确信我和摩尔康会在彼岸再见，因为我们还有未竟的事业，原本就该在此岸完成",
+        "type_code": "PER"
+      },
+      {
+        "mention": "摩尔康",
+        "start_char": 163,
+        "end_char": 166,
+        "sentence": "”1932年，不到二十岁的图灵再访摩尔康的母亲，并留宿摩尔康家，其间他写了一篇感人的短文《精神之本质》（“Nature of Spirit”），最后一段是这样的：“至于为什么我们非得有肉体不可：为什么我们不可以只有自由之精神，且只需精神间的交流",
+        "type_code": "PER"
+      },
+      {
+        "mention": "摩尔康",
+        "start_char": 173,
+        "end_char": 176,
+        "sentence": "”1932年，不到二十岁的图灵再访摩尔康的母亲，并留宿摩尔康家，其间他写了一篇感人的短文《精神之本质》（“Nature of Spirit”），最后一段是这样的：“至于为什么我们非得有肉体不可：为什么我们不可以只有自由之精神，且只需精神间的交流",
+        "type_code": "PER"
+      },
+      {
+        "mention": "摩尔康",
+        "start_char": 2801,
+        "end_char": 2804,
+        "sentence": "其实布鲁克斯更应该去图灵1932年在摩尔康家写的那篇短文中寻找灵感，图灵晚年更加关注没有肉体的精神",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“克里斯多夫·摩尔康”。"
+  },
+  {
+    "id": "ENT_005",
+    "canonical_name": "精神之本质",
+    "type_code": "WORK",
+    "type_name": "作品",
+    "mentions": [
+      {
+        "mention": "精神之本质",
+        "start_char": 191,
+        "end_char": 196,
+        "sentence": "”1932年，不到二十岁的图灵再访摩尔康的母亲，并留宿摩尔康家，其间他写了一篇感人的短文《精神之本质》（“Nature of Spirit”），最后一段是这样的：“至于为什么我们非得有肉体不可：为什么我们不可以只有自由之精神，且只需精神间的交流",
+        "type_code": "WORK"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的作品实体，规范名称为“精神之本质”。"
+  },
+  {
+    "id": "ENT_006",
+    "canonical_name": "1936年",
+    "type_code": "DATE",
+    "type_name": "日期",
+    "mentions": [
+      {
+        "mention": "1936年",
+        "start_char": 603,
+        "end_char": 608,
+        "sentence": "图灵的所有贡献中，有两项是无与伦比的，第一是他1936年的文章《可计算的数》（“On Computable Numbers”，下文简称“图灵-1936”），其中他定义了一种机械装置，后来被他的导师丘奇（Church）称为“图灵机”",
+        "type_code": "DATE"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的日期实体，规范名称为“1936年”。"
+  },
+  {
+    "id": "ENT_007",
+    "canonical_name": "阿隆佐·丘奇",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "丘奇",
+        "start_char": 678,
+        "end_char": 680,
+        "sentence": "图灵的所有贡献中，有两项是无与伦比的，第一是他1936年的文章《可计算的数》（“On Computable Numbers”，下文简称“图灵-1936”），其中他定义了一种机械装置，后来被他的导师丘奇（Church）称为“图灵机”",
+        "type_code": "PER"
+      },
+      {
+        "mention": "丘奇",
+        "start_char": 1801,
+        "end_char": 1803,
+        "sentence": "图灵在关于智能的论证中，假设了丘奇-图灵论题，这是计算机科学的基石",
+        "type_code": "PER"
+      },
+      {
+        "mention": "丘奇",
+        "start_char": 1944,
+        "end_char": 1946,
+        "sentence": "在“为什么是图灵”一章中，我有意识地系统化重构计算理论的形成过程，并力图说明丘奇-图灵论题的哲学含义",
+        "type_code": "PER"
+      },
+      {
+        "mention": "丘奇",
+        "start_char": 1992,
+        "end_char": 1994,
+        "sentence": "这些成果变成了本书的几个章节，其中“为什么是图灵”讲可计算性，其核心是丘奇-图灵论题，“图灵与计算复杂性”讲复杂性，其核心是强丘奇-图灵论题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "丘奇",
+        "start_char": 2020,
+        "end_char": 2022,
+        "sentence": "这些成果变成了本书的几个章节，其中“为什么是图灵”讲可计算性，其核心是丘奇-图灵论题，“图灵与计算复杂性”讲复杂性，其核心是强丘奇-图灵论题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "丘奇",
+        "start_char": 11508,
+        "end_char": 11510,
+        "sentence": "图灵的伟大远见在于以抽象机器的形式为计算问题提供了具体的答案，后来他的博导阿朗佐丘奇将其命名为图灵机",
+        "type_code": "PER"
+      },
+      {
+        "mention": "丘奇",
+        "start_char": 12703,
+        "end_char": 12705,
+        "sentence": "然而，在 1936 年，美国数学家丘奇和图灵使用不同的方法分别证明了「没有通用方法可以解决 Entscheidungs 问题的每个例子",
+        "type_code": "PER"
+      },
+      {
+        "mention": "丘奇",
+        "start_char": 13116,
+        "end_char": 13118,
+        "sentence": "就在哲学家、逻辑学家和数学家库尔特・哥德尔证明数学是不完备的几年后，丘奇和图灵也通过这项工作表表明了数学中的某些问题是不可判定的",
+        "type_code": "PER"
+      },
+      {
+        "mention": "阿隆佐·丘奇",
+        "start_char": 19037,
+        "end_char": 19043,
+        "sentence": "1936 年至 1938 年，图灵在美国普林斯顿大学跟随著名数学家阿隆佐·丘奇学习，并获得了博士学位",
+        "type_code": "PER"
+      },
+      {
+        "mention": "丘奇",
+        "start_char": 19865,
+        "end_char": 19867,
+        "sentence": "图灵最重要的贡献无疑是他 1936 年的那篇文章《论可计算数》（On Computable Numbers, with an Application to the Entscheidungsproblem）， 其中他定义了一种机械装置，后来被他的导师丘奇称为“图灵机”",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“阿隆佐·丘奇”。"
+  },
+  {
+    "id": "ENT_008",
+    "canonical_name": "图灵机",
+    "type_code": "CONCEPT",
+    "type_name": "概念",
+    "mentions": [
+      {
+        "mention": "图灵机",
+        "start_char": 691,
+        "end_char": 694,
+        "sentence": "图灵的所有贡献中，有两项是无与伦比的，第一是他1936年的文章《可计算的数》（“On Computable Numbers”，下文简称“图灵-1936”），其中他定义了一种机械装置，后来被他的导师丘奇（Church）称为“图灵机”",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 701,
+        "end_char": 704,
+        "sentence": "哥德尔认为图灵机比他自己的递归函数更令人信服，冯诺伊曼说这奠定了现代计算机的基础，也就是说，图灵机是计算机科学的基础，也是计算机工程的起点",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 742,
+        "end_char": 745,
+        "sentence": "哥德尔认为图灵机比他自己的递归函数更令人信服，冯诺伊曼说这奠定了现代计算机的基础，也就是说，图灵机是计算机科学的基础，也是计算机工程的起点",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 1674,
+        "end_char": 1679,
+        "sentence": "图灵企图说明机器是可以有智能的，而这里的机器是普适或通用图灵机（UTM，Universal Turing Machine）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 4316,
+        "end_char": 4319,
+        "sentence": "在图灵看，图灵机和智能是一回事，图灵-1948和图灵-1950中关于智能的论述不过是图灵-1936中计算理论的科普版或者哲学注解",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11515,
+        "end_char": 11518,
+        "sentence": "图灵的伟大远见在于以抽象机器的形式为计算问题提供了具体的答案，后来他的博导阿朗佐丘奇将其命名为图灵机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11521,
+        "end_char": 11524,
+        "sentence": "图灵机是抽象的，因为它没有（也不能）作为有形设备物理存在",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11610,
+        "end_char": 11613,
+        "sentence": "当艾伦图灵在 1936 年发明图灵机时，也创造了现代计算",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11633,
+        "end_char": 11636,
+        "sentence": "艾伦・图灵及他的图灵机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11649,
+        "end_char": 11652,
+        "sentence": "它的工作原理是这样的：图灵机可以按照规则表的规定读取和更改无限长磁带上的符号",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11706,
+        "end_char": 11709,
+        "sentence": "图灵机用磁带头读取和重写单元格的内容",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11738,
+        "end_char": 11741,
+        "sentence": "规则表中的每条规则都会决定图灵机应该根据它当前的状态和正在读取的符号来做什么",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11764,
+        "end_char": 11767,
+        "sentence": "图灵机可以基于它停止的位置来进入最终状态（「接受状态」或「拒绝状态」），决定接受或拒绝输入",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11812,
+        "end_char": 11815,
+        "sentence": "或者图灵机陷入无限循环并永不停歇地读取磁带",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11836,
+        "end_char": 11839,
+        "sentence": "理解图灵机的最好方法是来思考这样一个简单的例子",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11866,
+        "end_char": 11869,
+        "sentence": "让我们想象一下，图灵机被设计用于告诉我们给定的输入是否为数字零",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 11940,
+        "end_char": 11943,
+        "sentence": "图灵机从初始状态开始，我们称之为 q0，它读取磁带最左边的单元格并找到一个空白区域",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 12234,
+        "end_char": 12237,
+        "sentence": "」图灵机停止运行，并对最初的问题「0001 是零吗",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 12285,
+        "end_char": 12288,
+        "sentence": "相反，如果输入是「#0000#」，图灵机将在所有这些零之后遇到 #",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 12392,
+        "end_char": 12395,
+        "sentence": "艾伦图灵帮助定义了计算、算法和图灵机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 12851,
+        "end_char": 12854,
+        "sentence": "同时，他还表明算法是一个可以用图灵机定义的过程",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 12874,
+        "end_char": 12877,
+        "sentence": "因此，可计算函数是一种可通过图灵机来计算的函数",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13062,
+        "end_char": 13065,
+        "sentence": "」其他数学家提出了不同的计算模型，虽然这些模型表面上看起来很不一样，但实际上是相同的：它们可以进行图灵机可以进行的任何计算，反之亦然",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13292,
+        "end_char": 13295,
+        "sentence": "通用和概率图灵机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13310,
+        "end_char": 13313,
+        "sentence": "除了回答这些基本问题之外，图灵机还通过一种称为通用图灵机的变体直接影响了现代计算机的发展",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 13320,
+        "end_char": 13325,
+        "sentence": "除了回答这些基本问题之外，图灵机还通过一种称为通用图灵机的变体直接影响了现代计算机的发展",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13349,
+        "end_char": 13352,
+        "sentence": "它是一种特殊的图灵机，可以模拟任何其他图灵机的任何输入",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13361,
+        "end_char": 13364,
+        "sentence": "它是一种特殊的图灵机，可以模拟任何其他图灵机的任何输入",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13377,
+        "end_char": 13380,
+        "sentence": "它可以读取其它图灵机的描述（以及规则和输入磁带）并在自己的输入磁带上模拟它们的行为，与模拟机器输出相同的输出结果，就像今天的计算机可以读取任何程序并执行它一样",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 13513,
+        "end_char": 13518,
+        "sentence": "1945 年，美籍匈牙利数学家、计算机科学家、物理学家约翰・冯・诺依曼提出了一种计算机架构 —— 即冯・诺依曼架构，它使得通用图灵机概念变为现实生活中的机器成为可能",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13624,
+        "end_char": 13627,
+        "sentence": "他表示，「通用（universal）有两种概念，一个是它可以运行任何其他图灵机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13696,
+        "end_char": 13699,
+        "sentence": "」在经典物理学世界中，任何物理过程都可以使用算法进行建模或模拟，而算法又可以由图灵机进行模拟",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13725,
+        "end_char": 13728,
+        "sentence": "另一个值得关注且越来越有用的变体是概率图灵机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13746,
+        "end_char": 13749,
+        "sentence": "与对每个输入都有定义明确回应的常规图灵机不同，概率图灵机可以根据概率做出多种回应",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13754,
+        "end_char": 13757,
+        "sentence": "与对每个输入都有定义明确回应的常规图灵机不同，概率图灵机可以根据概率做出多种回应",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 13835,
+        "end_char": 13838,
+        "sentence": "概率图灵机的概念已被证明在密码学、优化和机器学习等领域非常有用",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 14346,
+        "end_char": 14351,
+        "sentence": "这一年，他构想出了一种后来被世人称为“通用图灵机”的抽象设备",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 14515,
+        "end_char": 14520,
+        "sentence": "虽然结构简单，但一台通用图灵机足以执行今天最强大的计算机能够完成的任何任务——事实上，所有现代数字计算机本质上都是通用图灵机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 14562,
+        "end_char": 14567,
+        "sentence": "虽然结构简单，但一台通用图灵机足以执行今天最强大的计算机能够完成的任何任务——事实上，所有现代数字计算机本质上都是通用图灵机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 14776,
+        "end_char": 14781,
+        "sentence": "不过，一个引人注目的问题依然随之产生：我们有可能设计出甚至比通用图灵机更加强大的机器吗",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 14913,
+        "end_char": 14918,
+        "sentence": "而在人们真正燃起对于超计算的兴趣之前，所有已知对于通用图灵机而言过于复杂的信息处理工作都被作为“不可计算之物”而忽略",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 15030,
+        "end_char": 15035,
+        "sentence": "比如，对于一些随机选定的算术陈述，一台通用图灵机并不能判断出哪些属于定理（如“7+5=12”）以及哪些不是定理（如“任意一个数都是两个偶数之和”）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 15212,
+        "end_char": 15217,
+        "sentence": "夏威夷大学的逻辑学家William Hanf和Dale Myers就曾发现过一组通用图灵机无法计算的瓷砖",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 15237,
+        "end_char": 15242,
+        "sentence": "在计算机科学领域，一台通用图灵机无法一直预测对眼前的程序是会终止，还是会永远继续运行下去",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 15460,
+        "end_char": 15465,
+        "sentence": "““预言机”“即一台通用图灵机加上一个黑箱后得到的成果",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 15643,
+        "end_char": 15648,
+        "sentence": "图灵并没有说明“预言家”是如何工作的（他也从没解释过通用图灵机的那些基本行为——识别扫描器中的符号”是如何实现的）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 15787,
+        "end_char": 15792,
+        "sentence": "原则上，如果神经元的活动被去同步化，一个合适的B型网络就能对那些“不可计算之物”进行计算（如果存在一个能让各神经元协调工作的中枢生物钟，该网络的运作就能在一台通用图灵机中被精确地模拟出来）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 16072,
+        "end_char": 16077,
+        "sentence": "在数理逻辑之外，图灵的”“预言机”“几乎被忘得一干二净；相反，一个神话被人们供奉了起来：在一份子虚乌有的记录中，图灵在二十世纪三十年代中期成功证明了超机器是可能的——传言中，他与自己在普林斯顿大学的博士生导师阿隆佐·邱奇宣称一台通用图灵机可以精确地模拟任何其他信息处理机器的行为",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 16128,
+        "end_char": 16133,
+        "sentence": "这条被广为误读的“邱奇—图灵论题”意味着，没有机器能够解决通用图灵机能力范围之外的任务",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "通用图灵机",
+        "start_char": 16160,
+        "end_char": 16165,
+        "sentence": "但事实上，邱奇和图灵只说过，一台通用图灵机能够模拟任何人类数学家在使用笔和纸的情况下借助算法完成的工作——对于一个神话而言，这个命题显然过于薄弱了",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 18580,
+        "end_char": 18583,
+        "sentence": "从二战时期破解 Enigma，到提出划时代的图灵机和图灵测试，图灵的工作不仅推动了计算机科学的发展，他的思想和创新在当今的科技世界中依然熠熠生辉",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 18963,
+        "end_char": 18966,
+        "sentence": "1936 年，图灵发表了划时代的论文《论可计算数》，在这篇论文中，他提出了图灵机的概念",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 19727,
+        "end_char": 19730,
+        "sentence": "图灵机：现代计算机的原型",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 19870,
+        "end_char": 19873,
+        "sentence": "图灵最重要的贡献无疑是他 1936 年的那篇文章《论可计算数》（On Computable Numbers, with an Application to the Entscheidungsproblem）， 其中他定义了一种机械装置，后来被他的导师丘奇称为“图灵机”",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 19918,
+        "end_char": 19921,
+        "sentence": "冯诺依曼说这不仅奠定了计算的理论基础，也为现代计算机的工程实现指明了方向；哥德尔也认为图灵机比他自己的递归函数更令人信服",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 19949,
+        "end_char": 19952,
+        "sentence": "在这篇论文中，图灵提出了图灵机的概念，将计算过程抽象成一系列简单的操作步骤，可以通过读取和写入纸带上的符号来完成",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 20122,
+        "end_char": 20125,
+        "sentence": "图灵机的提出不仅解决了希尔伯特的决断问题，还为现代计算机的设计提供了理论基础",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 20161,
+        "end_char": 20164,
+        "sentence": "图灵机的概念被广泛用于编程语言、算法设计和复杂性理论等领域",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵机",
+        "start_char": 20767,
+        "end_char": 20770,
+        "sentence": "艾伦·图灵的工作为现代计算理论奠定了基础，尤其是通过图灵机这一概念，不仅帮助我们理解计算的本质，还为自然语言处理和机器学习等复杂过程铺平了道路",
+        "type_code": "CONCEPT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的概念实体，规范名称为“图灵机”。"
+  },
+  {
+    "id": "ENT_009",
+    "canonical_name": "库尔特·哥德尔",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "哥德尔",
+        "start_char": 696,
+        "end_char": 699,
+        "sentence": "哥德尔认为图灵机比他自己的递归函数更令人信服，冯诺伊曼说这奠定了现代计算机的基础，也就是说，图灵机是计算机科学的基础，也是计算机工程的起点",
+        "type_code": "PER"
+      },
+      {
+        "mention": "库尔特·哥德尔",
+        "start_char": 9423,
+        "end_char": 9430,
+        "sentence": "影响图灵思想的三个理论源头，包括德国理想主义（或译作唯心主义）、大卫·希尔伯特和库尔特·哥德尔的数学哲学、虔诚的贵格会教徒亚瑟·艾丁顿的物理学，在各自的科学学说中都关注本体论和知识论的问题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "哥德尔",
+        "start_char": 13100,
+        "end_char": 13103,
+        "sentence": "就在哲学家、逻辑学家和数学家库尔特・哥德尔证明数学是不完备的几年后，丘奇和图灵也通过这项工作表表明了数学中的某些问题是不可判定的",
+        "type_code": "PER"
+      },
+      {
+        "mention": "哥德尔",
+        "start_char": 19912,
+        "end_char": 19915,
+        "sentence": "冯诺依曼说这不仅奠定了计算的理论基础，也为现代计算机的工程实现指明了方向；哥德尔也认为图灵机比他自己的递归函数更令人信服",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“库尔特·哥德尔”。"
+  },
+  {
+    "id": "ENT_010",
+    "canonical_name": "1950年",
+    "type_code": "DATE",
+    "type_name": "日期",
+    "mentions": [
+      {
+        "mention": "1950年",
+        "start_char": 770,
+        "end_char": 775,
+        "sentence": "第二是他1950年在哲学杂志《心》（Mind）上发表的文章《计算机与智能》（“Computing Machinery and Intelligence”，下文简称“图灵-1950”），这篇文章是人工智能领域的灯塔",
+        "type_code": "DATE"
+      },
+      {
+        "mention": "1950年",
+        "start_char": 4792,
+        "end_char": 4797,
+        "sentence": "英国通才斯诺（C. P. Snow）在1950年代末看到不可愈合的文、理两种文化之分",
+        "type_code": "DATE"
+      },
+      {
+        "mention": "1950年",
+        "start_char": 18017,
+        "end_char": 18022,
+        "sentence": "1950年，图灵38岁",
+        "type_code": "DATE"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的日期实体，规范名称为“1950年”。"
+  },
+  {
+    "id": "ENT_011",
+    "canonical_name": "计算机与智能",
+    "type_code": "WORK",
+    "type_name": "作品",
+    "mentions": [
+      {
+        "mention": "计算机与智能",
+        "start_char": 796,
+        "end_char": 802,
+        "sentence": "第二是他1950年在哲学杂志《心》（Mind）上发表的文章《计算机与智能》（“Computing Machinery and Intelligence”，下文简称“图灵-1950”），这篇文章是人工智能领域的灯塔",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "计算机与智能",
+        "start_char": 20232,
+        "end_char": 20238,
+        "sentence": "图灵 1950 年在哲学杂志《心》上发表的文章《计算机与智能》（Computing Machinery and Intelligence）中把“机器能思考吗”的问题转换为一种模仿游戏——后世称为“图灵测试”，这是人工智能的起源",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "计算机与智能",
+        "start_char": 20333,
+        "end_char": 20339,
+        "sentence": "图灵– 1950，《计算机与智能》发表在《心》上",
+        "type_code": "WORK"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的作品实体，规范名称为“计算机与智能”。"
+  },
+  {
+    "id": "ENT_012",
+    "canonical_name": "人工智能",
+    "type_code": "CONCEPT",
+    "type_name": "概念",
+    "mentions": [
+      {
+        "mention": "人工智能",
+        "start_char": 863,
+        "end_char": 867,
+        "sentence": "第二是他1950年在哲学杂志《心》（Mind）上发表的文章《计算机与智能》（“Computing Machinery and Intelligence”，下文简称“图灵-1950”），这篇文章是人工智能领域的灯塔",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 984,
+        "end_char": 988,
+        "sentence": "怀特海有言“整个西方哲学传统就是柏拉图著作的一系列脚注”，我想借过来说：整个计算机科学，包括人工智能，就是图灵为数不多的著作的一系列脚注",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 1084,
+        "end_char": 1088,
+        "sentence": "他们企图用“笛卡儿测试”替代“图灵测试”，从而抵消图灵为人工智能做出的贡献",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 1152,
+        "end_char": 1156,
+        "sentence": "写注本身也是对人工智能，甚至更广义地说，是对计算机科学的思考",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 1184,
+        "end_char": 1188,
+        "sentence": "计算机科学（包括人工智能）中，最早替别人的工作做注的应该是诗人拜伦的女儿艾达（Ada）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 2322,
+        "end_char": 2326,
+        "sentence": "这也可以解释：相较稍早的人工智能在语音与视觉能力的突破，为什么ChatGPT在语言能力的突破给我们造成了更大的冲击",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 3863,
+        "end_char": 3867,
+        "sentence": "人工智能是最靠近人性的学科，很容易引起广泛的关注，同时它的边界又最不清晰，于是从最高智力的数学家和理论计算机科学家，到频谱的另一极端哲学和媒体从业人员，谁都能说三道四",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 3982,
+        "end_char": 3986,
+        "sentence": "不同路线的人工智能学者都能在图灵的著述中找到他们想要的东西",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 5435,
+        "end_char": 5439,
+        "sentence": "图灵-1950的早期中文译文曾作为附录，收录在我的《人工智能简史》中，当时为了赶时间，其中有很多不讲究的地方，甚至错误",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 5793,
+        "end_char": 5797,
+        "sentence": "2014年，由饰演新版福尔摩斯而红遍全球的英国演员“卷福” (Benedict Cumberbatch)主演的电影《模仿游戏》，让常被誉为“人工智能之父”的英国数学家图灵被大众所熟悉，尤其是他古怪的一面和悲剧的人生",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 6411,
+        "end_char": 6415,
+        "sentence": "在那里，图灵撰写下了被认为是人工智能宣言的文稿，发表了具有里程碑意义的论文“计算机器与智能”(Computing Machinery and Intelligence)，在其中提出了著名的图灵测试，也参与了包括BBC在内的电台广播，向大众介绍计算机的概念，还参与设计了世上最早的存储程序计算机之一",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 6984,
+        "end_char": 6988,
+        "sentence": "曼彻斯特大学发现的这批信件多与图灵的工作有关，包括研究人工智能问题的手稿，也包括邀请图灵去美国高等院校演讲的信函",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 7602,
+        "end_char": 7606,
+        "sentence": "事实上，结合图灵的信件和学术论文，不但可以发现他的人生轨迹和挣扎私语，还能发现研究和想法上的精进，包括对人工智能构想的完善，和最后阶段对人工生命化学和生物学研究",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 8637,
+        "end_char": 8641,
+        "sentence": "对人类的重新定义：人工智能的自我再造",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 8961,
+        "end_char": 8965,
+        "sentence": "建立在图灵的机器智能理念上的人工智能作为一名学科，也寄予着人类自我理解、再造及自我超越的意向",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "AI",
+        "start_char": 9024,
+        "end_char": 9026,
+        "sentence": "Machines Who Think（会思考的机器 : AI人工智慧的发展与趋势）的作者Pamela McCorduck曾说过，“设计人工智能是一种对人之为人本质的异样的复制",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 9063,
+        "end_char": 9067,
+        "sentence": "Machines Who Think（会思考的机器 : AI人工智慧的发展与趋势）的作者Pamela McCorduck曾说过，“设计人工智能是一种对人之为人本质的异样的复制",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 9089,
+        "end_char": 9093,
+        "sentence": "”对机器和人工智能的好奇和执着，都源自于我们最本能的恐惧和渴望：渴望了解自我的奥秘，但我们对未知的东西又总是心怀恐惧，尤其相关内心或深层自我时",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 9160,
+        "end_char": 9164,
+        "sentence": "被誉为“人工智能之父”的图灵是位数学家，他用数学和机械对自我机制和本质的探索、模拟、再造，实际上改变了人通常作为不可化约的“万物之灵”的概念",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 9819,
+        "end_char": 9823,
+        "sentence": "今天的人工智能科学家们也秉承了这种不断对人类自我意识进行重新认识、反思和定义的态度，譬如AI教科书《人工智能：一种现代方法》的作者Russel和Norvig也认为我们自称“智人” Homo sapiens，就是因为思维能力对人的自我意识而言至关重要",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "AI",
+        "start_char": 9860,
+        "end_char": 9862,
+        "sentence": "今天的人工智能科学家们也秉承了这种不断对人类自我意识进行重新认识、反思和定义的态度，譬如AI教科书《人工智能：一种现代方法》的作者Russel和Norvig也认为我们自称“智人” Homo sapiens，就是因为思维能力对人的自我意识而言至关重要",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 9866,
+        "end_char": 9870,
+        "sentence": "今天的人工智能科学家们也秉承了这种不断对人类自我意识进行重新认识、反思和定义的态度，譬如AI教科书《人工智能：一种现代方法》的作者Russel和Norvig也认为我们自称“智人” Homo sapiens，就是因为思维能力对人的自我意识而言至关重要",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 9944,
+        "end_char": 9948,
+        "sentence": "可以说人工智能学科和我们今天的数字时代都蕴涵着这样的“我者何人”甚至是“我者何物”的反思和创造",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 9996,
+        "end_char": 10000,
+        "sentence": "研究图灵在人工智能和计算机方面的著作，很少探究其理论的深层意义；而关注图灵人生际遇的报道和传记，也很少将他的科学理论和人生反思结合——更罕见的是探讨他在科学研究和人生反思中对“自我”的追寻中所蕴涵的本体论意义",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 10747,
+        "end_char": 10751,
+        "sentence": "另一方面，人工智能也许是对这种意义最具体的外化，因为通过学习和模拟人脑思维方式而制成的现代科技，每一天都在提醒我们重新创造自我不但可能，且不断发生在诸如iPhone之类机器的细微处",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 10901,
+        "end_char": 10905,
+        "sentence": "当下个人化的智能产品已成为人们日常生活的一部分，且不断改变人表达、认识与建构自我的方式；由此而产生的新的自我意识与社会认同，都是基于人工智能哲学将人类思维看作可以不断人为更新进化的机器的纲领",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 10951,
+        "end_char": 10955,
+        "sentence": "这种自我反思、自我重塑与自我再造的意向乃人工智能哲学深层的意义，不但由当代先锋理论家继承并积极实践，也因普罗大众对个人电脑及智能产品的密切使用，甚至依赖而生生不息",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 14031,
+        "end_char": 14035,
+        "sentence": "在这篇写于1948年、题为《智能机器》的论文里，图灵第一次为世人勾勒出了人工智能领域的轮廓",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "AI",
+        "start_char": 14070,
+        "end_char": 14072,
+        "sentence": "他不仅为联结主义理论奠定了基础，还引入了多种对于日后的AI研究至关重要的概念",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 18551,
+        "end_char": 18555,
+        "sentence": "他是数学家、逻辑学家、密码学家，人工智能先驱",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 20193,
+        "end_char": 20197,
+        "sentence": "人工智能之父：机器能思考吗",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 20314,
+        "end_char": 20318,
+        "sentence": "图灵 1950 年在哲学杂志《心》上发表的文章《计算机与智能》（Computing Machinery and Intelligence）中把“机器能思考吗”的问题转换为一种模仿游戏——后世称为“图灵测试”，这是人工智能的起源",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 20714,
+        "end_char": 20718,
+        "sentence": "尽管图灵测试在现代受到了一些批评和挑战，但它依然是人工智能领域的重要基石",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "AI",
+        "start_char": 20825,
+        "end_char": 20827,
+        "sentence": "此外，图灵测试作为评判 AI 智能的重要标准，激励着人工智能研究的发展，推动我们追求更高级、更自然的机器智能",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 20839,
+        "end_char": 20843,
+        "sentence": "此外，图灵测试作为评判 AI 智能的重要标准，激励着人工智能研究的发展，推动我们追求更高级、更自然的机器智能",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "AI",
+        "start_char": 20892,
+        "end_char": 20894,
+        "sentence": "图灵的计算理论直接影响了从简单算法到复杂大规模 AI 模型的发展，使得今天的深度学习和神经网络成为可能",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 20926,
+        "end_char": 20930,
+        "sentence": "在大数据和人工智能主导的今天，像 GPT-4 这样的先进语言模型实际上深深植根于图灵的理论和思想",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 21085,
+        "end_char": 21089,
+        "sentence": "图灵的贡献不仅揭示了计算的本质，还为实际应用提供了坚实的理论支持，他的工作开启了计算机科学的新时代，并引领我们进入了人工智能的辉煌时代",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "人工智能",
+        "start_char": 21435,
+        "end_char": 21439,
+        "sentence": "全方位了解计算机科学奠基人和人工智能先驱图灵的生平和思想，追溯图灵的生平和思想轨迹，深入探讨图灵思想，深刻领会图灵文章内涵",
+        "type_code": "CONCEPT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的概念实体，规范名称为“人工智能”。"
+  },
+  {
+    "id": "ENT_013",
+    "canonical_name": "怀特海",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "怀特海",
+        "start_char": 938,
+        "end_char": 941,
+        "sentence": "怀特海有言“整个西方哲学传统就是柏拉图著作的一系列脚注”，我想借过来说：整个计算机科学，包括人工智能，就是图灵为数不多的著作的一系列脚注",
+        "type_code": "PER"
+      },
+      {
+        "mention": "怀特海",
+        "start_char": 4211,
+        "end_char": 4214,
+        "sentence": "罗素和怀特海的大部头，借用了牛顿，直接是拉丁文Principia Mathematica（《数学原理》），讲的是逻辑，他们当然配得上",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“怀特海”。"
+  },
+  {
+    "id": "ENT_014",
+    "canonical_name": "柏拉图",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "柏拉图",
+        "start_char": 954,
+        "end_char": 957,
+        "sentence": "怀特海有言“整个西方哲学传统就是柏拉图著作的一系列脚注”，我想借过来说：整个计算机科学，包括人工智能，就是图灵为数不多的著作的一系列脚注",
+        "type_code": "PER"
+      },
+      {
+        "mention": "柏拉图",
+        "start_char": 4554,
+        "end_char": 4557,
+        "sentence": "柏拉图在《理想国》里通过苏格拉底之口说出：我们学习算术不是为了做买卖，而是为了追求知识",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“柏拉图”。"
+  },
+  {
+    "id": "ENT_015",
+    "canonical_name": "笛卡儿",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "笛卡儿",
+        "start_char": 1062,
+        "end_char": 1065,
+        "sentence": "他们企图用“笛卡儿测试”替代“图灵测试”，从而抵消图灵为人工智能做出的贡献",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“笛卡儿”。"
+  },
+  {
+    "id": "ENT_016",
+    "canonical_name": "图灵测试",
+    "type_code": "CONCEPT",
+    "type_name": "概念",
+    "mentions": [
+      {
+        "mention": "图灵测试",
+        "start_char": 1071,
+        "end_char": 1075,
+        "sentence": "他们企图用“笛卡儿测试”替代“图灵测试”，从而抵消图灵为人工智能做出的贡献",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 2279,
+        "end_char": 2283,
+        "sentence": "“语言=思维吗”一章虽然更多篇幅讲述乔姆斯基，但目的是为理解图灵测试提供背景，图灵测试不是行为主义的测试，而是语言的测试",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 2288,
+        "end_char": 2292,
+        "sentence": "“语言=思维吗”一章虽然更多篇幅讲述乔姆斯基，但目的是为理解图灵测试提供背景，图灵测试不是行为主义的测试，而是语言的测试",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 4059,
+        "end_char": 4063,
+        "sentence": "我们不仅可以泛泛地讨论大模型是否通过了图灵测试，也可以把图灵的思想和其他学科交叉考虑",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 6491,
+        "end_char": 6495,
+        "sentence": "在那里，图灵撰写下了被认为是人工智能宣言的文稿，发表了具有里程碑意义的论文“计算机器与智能”(Computing Machinery and Intelligence)，在其中提出了著名的图灵测试，也参与了包括BBC在内的电台广播，向大众介绍计算机的概念，还参与设计了世上最早的存储程序计算机之一",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 18584,
+        "end_char": 18588,
+        "sentence": "从二战时期破解 Enigma，到提出划时代的图灵机和图灵测试，图灵的工作不仅推动了计算机科学的发展，他的思想和创新在当今的科技世界中依然熠熠生辉",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 20306,
+        "end_char": 20310,
+        "sentence": "图灵 1950 年在哲学杂志《心》上发表的文章《计算机与智能》（Computing Machinery and Intelligence）中把“机器能思考吗”的问题转换为一种模仿游戏——后世称为“图灵测试”，这是人工智能的起源",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 20465,
+        "end_char": 20469,
+        "sentence": "如果 C 无法区分，或者错误地将机器判断为人，那么这台机器就被认为通过了图灵测试，展现出了与人类相似的智能",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 20591,
+        "end_char": 20595,
+        "sentence": "图灵测试不仅提出了机器智能的概念，还引发了对智能本质的深刻思考",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 20691,
+        "end_char": 20695,
+        "sentence": "尽管图灵测试在现代受到了一些批评和挑战，但它依然是人工智能领域的重要基石",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "图灵测试",
+        "start_char": 20816,
+        "end_char": 20820,
+        "sentence": "此外，图灵测试作为评判 AI 智能的重要标准，激励着人工智能研究的发展，推动我们追求更高级、更自然的机器智能",
+        "type_code": "CONCEPT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的概念实体，规范名称为“图灵测试”。"
+  },
+  {
+    "id": "ENT_017",
+    "canonical_name": "艾达",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "艾达",
+        "start_char": 1212,
+        "end_char": 1214,
+        "sentence": "计算机科学（包括人工智能）中，最早替别人的工作做注的应该是诗人拜伦的女儿艾达（Ada）",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾达",
+        "start_char": 1260,
+        "end_char": 1262,
+        "sentence": "巴贝奇并没有为他的分析机（Analytical Engine）写过系统的介绍，是艾达把别人的法文听课笔记翻译成英文",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾达",
+        "start_char": 1541,
+        "end_char": 1543,
+        "sentence": "一方面，在原文中插入注解使得原文失去了可读性，艾达的注释是作为笔记的附录，整体列在原文之后的",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“艾达”。"
+  },
+  {
+    "id": "ENT_018",
+    "canonical_name": "巴贝奇",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "巴贝奇",
+        "start_char": 1220,
+        "end_char": 1223,
+        "sentence": "巴贝奇并没有为他的分析机（Analytical Engine）写过系统的介绍，是艾达把别人的法文听课笔记翻译成英文",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“巴贝奇”。"
+  },
+  {
+    "id": "ENT_019",
+    "canonical_name": "美国",
+    "type_code": "LOC",
+    "type_name": "地点",
+    "mentions": [
+      {
+        "mention": "美国",
+        "start_char": 1353,
+        "end_char": 1355,
+        "sentence": "因此美国国防部1980年把霍尼韦尔（Honeywell）按照合同开发的编程语言命名为Ada，以纪念这位早期计算机领域的先驱",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "美国",
+        "start_char": 7002,
+        "end_char": 7004,
+        "sentence": "曼彻斯特大学发现的这批信件多与图灵的工作有关，包括研究人工智能问题的手稿，也包括邀请图灵去美国高等院校演讲的信函",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "美国",
+        "start_char": 7115,
+        "end_char": 7117,
+        "sentence": "尽管个人色彩极少，此次发现的信件中也可以看出图灵本人对美国并不感冒，比如他曾戏称“美国流氓”——尽管他曾在普林斯顿攻读博士学位",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "美国",
+        "start_char": 7129,
+        "end_char": 7131,
+        "sentence": "尽管个人色彩极少，此次发现的信件中也可以看出图灵本人对美国并不感冒，比如他曾戏称“美国流氓”——尽管他曾在普林斯顿攻读博士学位",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "美国",
+        "start_char": 12698,
+        "end_char": 12700,
+        "sentence": "然而，在 1936 年，美国数学家丘奇和图灵使用不同的方法分别证明了「没有通用方法可以解决 Entscheidungs 问题的每个例子",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "美国",
+        "start_char": 13986,
+        "end_char": 13988,
+        "sentence": "1968年，也就是图灵逝世14年后，一份此前从未发表过的图灵论文原稿出现在了《科学美国人》杂志上",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "美国",
+        "start_char": 19022,
+        "end_char": 19024,
+        "sentence": "1936 年至 1938 年，图灵在美国普林斯顿大学跟随著名数学家阿隆佐·丘奇学习，并获得了博士学位",
+        "type_code": "LOC"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的地点实体，规范名称为“美国”。"
+  },
+  {
+    "id": "ENT_020",
+    "canonical_name": "计算理论",
+    "type_code": "CONCEPT",
+    "type_name": "概念",
+    "mentions": [
+      {
+        "mention": "计算理论",
+        "start_char": 1643,
+        "end_char": 1647,
+        "sentence": "首先，最重要的背景知识是计算理论",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 1834,
+        "end_char": 1838,
+        "sentence": "无论是页码数，还是子标题数，计算理论占了图灵-1950一半以上的篇幅",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 1858,
+        "end_char": 1862,
+        "sentence": "不了解计算理论及其演化历史，是没法搞明白图灵这篇文章的深意的",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 1929,
+        "end_char": 1933,
+        "sentence": "在“为什么是图灵”一章中，我有意识地系统化重构计算理论的形成过程，并力图说明丘奇-图灵论题的哲学含义",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 4361,
+        "end_char": 4365,
+        "sentence": "在图灵看，图灵机和智能是一回事，图灵-1948和图灵-1950中关于智能的论述不过是图灵-1936中计算理论的科普版或者哲学注解",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 4519,
+        "end_char": 4523,
+        "sentence": "“计算思维”的核心应该是计算理论，如果哪一天计算理论像几何和代数那样成为中学课程，我会更满足",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 4529,
+        "end_char": 4533,
+        "sentence": "“计算思维”的核心应该是计算理论，如果哪一天计算理论像几何和代数那样成为中学课程，我会更满足",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 4654,
+        "end_char": 4658,
+        "sentence": "本来，理解基础的计算理论并不需要艰深的预备知识，也不比二次方程和万有引力更加难学",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 4701,
+        "end_char": 4705,
+        "sentence": "现在看来，越来越多的人会相信计算理论比代数和物理更为基础（fundamental）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 4762,
+        "end_char": 4766,
+        "sentence": "没学过数学和物理的人注定处在知识鄙视链的底端，我猜，某一天，没学过计算理论的人也会如此",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 4914,
+        "end_char": 4918,
+        "sentence": "即使没有实用的计算机，也会有计算理论",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 4919,
+        "end_char": 4923,
+        "sentence": "计算理论为我们审视理性的同时提供了一个科学的起点和一个数学的起点",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 5274,
+        "end_char": 5278,
+        "sentence": "哪天我得空了，想写一篇《计算理论更加出奇地管用》（“Unreasonable Effectiveness of Theory of Computation, Even More”）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 5389,
+        "end_char": 5393,
+        "sentence": "如果罗素当时知道计算理论，他肯定会重写《心的分析》",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 15806,
+        "end_char": 15810,
+        "sentence": "在超计算理论中，像“分辨算术定理和非算术定理”这类任务都不可解；即便是能够分辨出程序是否由C语言写成的调解器，也会陷入理论上可能的无限循环",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 18995,
+        "end_char": 18999,
+        "sentence": "这一工作不仅解决了希尔伯特的决断问题，还奠定了现代计算理论的基础",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 20012,
+        "end_char": 20016,
+        "sentence": "这种思想虽然简单，却极为强大，奠定了计算理论的基础，使得我们能够理解和设计更复杂的计算系统",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 20752,
+        "end_char": 20756,
+        "sentence": "艾伦·图灵的工作为现代计算理论奠定了基础，尤其是通过图灵机这一概念，不仅帮助我们理解计算的本质，还为自然语言处理和机器学习等复杂过程铺平了道路",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "计算理论",
+        "start_char": 20871,
+        "end_char": 20875,
+        "sentence": "图灵的计算理论直接影响了从简单算法到复杂大规模 AI 模型的发展，使得今天的深度学习和神经网络成为可能",
+        "type_code": "CONCEPT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的概念实体，规范名称为“计算理论”。"
+  },
+  {
+    "id": "ENT_021",
+    "canonical_name": "维特根斯坦",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "维特根斯坦",
+        "start_char": 2201,
+        "end_char": 2206,
+        "sentence": "“图灵 vs 维特根斯坦”回顾了图灵1939年在剑桥和维特根斯坦的一学期遭遇，旨在更加容易了解两者的哲学态度",
+        "type_code": "PER"
+      },
+      {
+        "mention": "维特根斯坦",
+        "start_char": 2221,
+        "end_char": 2226,
+        "sentence": "“图灵 vs 维特根斯坦”回顾了图灵1939年在剑桥和维特根斯坦的一学期遭遇，旨在更加容易了解两者的哲学态度",
+        "type_code": "PER"
+      },
+      {
+        "mention": "维特根斯坦",
+        "start_char": 3237,
+        "end_char": 3242,
+        "sentence": "图灵参加过的讨论，留有完整记录的，除了图灵与维特根斯坦1939年在剑桥的课堂对谈，就是这次讨论了",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“维特根斯坦”。"
+  },
+  {
+    "id": "ENT_022",
+    "canonical_name": "剑桥大学",
+    "type_code": "LOC",
+    "type_name": "地点",
+    "mentions": [
+      {
+        "mention": "剑桥",
+        "start_char": 2218,
+        "end_char": 2220,
+        "sentence": "“图灵 vs 维特根斯坦”回顾了图灵1939年在剑桥和维特根斯坦的一学期遭遇，旨在更加容易了解两者的哲学态度",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "剑桥大学",
+        "start_char": 2502,
+        "end_char": 2506,
+        "sentence": "在NPL工作一年后，图灵厌恶其中的政治斗争，前往母校剑桥大学休假一年",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "剑桥",
+        "start_char": 3248,
+        "end_char": 3250,
+        "sentence": "图灵参加过的讨论，留有完整记录的，除了图灵与维特根斯坦1939年在剑桥的课堂对谈，就是这次讨论了",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "剑桥大学",
+        "start_char": 5886,
+        "end_char": 5890,
+        "sentence": "从谢波恩公学和剑桥大学毕业后，图灵在普林斯顿大学取得博士学位，然后回到英国",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "剑桥",
+        "start_char": 5919,
+        "end_char": 5921,
+        "sentence": "早在剑桥读本科时，他已经被安排指导博士学位论文，更在二十二岁时就当选国王学院院士",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "剑桥",
+        "start_char": 6209,
+        "end_char": 6211,
+        "sentence": "他也确实有一位终生难忘的挚友，是他在谢波恩的学长克里斯多夫，图灵当年为追随他也希望进入剑桥，而克里斯多夫却因为肺结核在十八岁时早早病逝",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "剑桥大学",
+        "start_char": 7079,
+        "end_char": 7083,
+        "sentence": "”，已有一份经由图灵修改的手稿藏于剑桥大学国王学院",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "剑桥",
+        "start_char": 7298,
+        "end_char": 7300,
+        "sentence": "更能看出图灵人生经历的私人信件，早已由他的母亲捐赠给图灵曾经就读的剑桥国王大学学院图书馆",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "剑桥大学",
+        "start_char": 18808,
+        "end_char": 18812,
+        "sentence": "1931 年，他进入剑桥大学国王学院学习",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "剑桥大学",
+        "start_char": 18874,
+        "end_char": 18878,
+        "sentence": "剑桥大学国王学院，图灵于1931年成为本科生，并在1935年成为研究员",
+        "type_code": "ORG"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的地点实体，规范名称为“剑桥大学”。"
+  },
+  {
+    "id": "ENT_023",
+    "canonical_name": "乔姆斯基",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "乔姆斯基",
+        "start_char": 2267,
+        "end_char": 2271,
+        "sentence": "“语言=思维吗”一章虽然更多篇幅讲述乔姆斯基，但目的是为理解图灵测试提供背景，图灵测试不是行为主义的测试，而是语言的测试",
+        "type_code": "PER"
+      },
+      {
+        "mention": "乔姆斯基",
+        "start_char": 4110,
+        "end_char": 4114,
+        "sentence": "”这个问题的思考，我们可以看到后来的乔姆斯基和图灵有诸多相似",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“乔姆斯基”。"
+  },
+  {
+    "id": "ENT_024",
+    "canonical_name": "英国",
+    "type_code": "LOC",
+    "type_name": "地点",
+    "mentions": [
+      {
+        "mention": "英国",
+        "start_char": 2403,
+        "end_char": 2405,
+        "sentence": "第二次世界大战结束后，英国国家物理实验室（NPL）力邀图灵加入，ACE（自动计算引擎，Automatic Computing Engine）是图灵为NPL设计的计算机",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 4773,
+        "end_char": 4775,
+        "sentence": "英国通才斯诺（C. P. Snow）在1950年代末看到不可愈合的文、理两种文化之分",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 5744,
+        "end_char": 5746,
+        "sentence": "2014年，由饰演新版福尔摩斯而红遍全球的英国演员“卷福” (Benedict Cumberbatch)主演的电影《模仿游戏》，让常被誉为“人工智能之父”的英国数学家图灵被大众所熟悉，尤其是他古怪的一面和悲剧的人生",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 5801,
+        "end_char": 5803,
+        "sentence": "2014年，由饰演新版福尔摩斯而红遍全球的英国演员“卷福” (Benedict Cumberbatch)主演的电影《模仿游戏》，让常被誉为“人工智能之父”的英国数学家图灵被大众所熟悉，尤其是他古怪的一面和悲剧的人生",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 5914,
+        "end_char": 5916,
+        "sentence": "从谢波恩公学和剑桥大学毕业后，图灵在普林斯顿大学取得博士学位，然后回到英国",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 5989,
+        "end_char": 5991,
+        "sentence": "二战时，图灵被招去政府通讯信总部（战时的政府密码学校）工作，为英国破译德军的密码，听命于军情六处（对，就是007系列中的MI6）指挥",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 6238,
+        "end_char": 6240,
+        "sentence": "近日英国《卫报》报道，图灵生前的一百五十多信件被偶然发现，让大家好奇这些信件能诉说什么样的故事",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 6565,
+        "end_char": 6567,
+        "sentence": "1951年，图灵当选为皇家学会会员——英国最具威望的机构认可了他的才能和成就",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 6653,
+        "end_char": 6655,
+        "sentence": "但曼彻斯特也为图灵短暂的一生划上了句号：1952年，图灵向警方报告了一起入室抢劫案，警方认为他与男性有不正当亲密关系而将他逮捕：当时英国规定同性恋行属于严重猥亵罪（gross indecency），刑罚通常是牢狱或激素注射，以改造当事人",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 6927,
+        "end_char": 6929,
+        "sentence": "但图灵在很大程度上推进了当代的LGBT群体平权运动，2009年，英国国家肖像博物馆也将图灵包括在“同性恋偶像”的展览中",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 7157,
+        "end_char": 7159,
+        "sentence": "这在当时的英国人中间其实并不少见；一直到今天，英美两国之间都常相互嘲讽",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 7430,
+        "end_char": 7432,
+        "sentence": "就传统而言，英国的寄宿公学多为中上层就读",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 7929,
+        "end_char": 7931,
+        "sentence": "图灵给这一批明信片起名为“来自看不见的世界的信”，出自他非常敬重的英国科学家亚瑟·艾丁顿——艾丁顿也是一名虔诚的贵格会信徒，在他被图灵引用的作品《科学与看不见的世界》中曾谈到超验与科学的平衡",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 8254,
+        "end_char": 8256,
+        "sentence": "许多怀念图灵的人也表示他尽管笨拙，却非常开朗和幽默，甚至在同性恋行为在英国被定义为严重猥亵罪的1940年代，敢于公开承认自己的性向",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 8789,
+        "end_char": 8791,
+        "sentence": "他所设想不受物理条件限制的、理想化的机器智能是对人类心灵的概念化模拟，这种概念化模拟抽象并机械化了人类心灵，蕴含着他对自我认同的期许——作为一个孤僻的天才少年及同性恋者，因同性恋当时在英国违法且有悖社会道德，图灵始终希望能像他的智能机器那样自由",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 10554,
+        "end_char": 10556,
+        "sentence": "我们太惯常将科学与无神论归为一谈，图灵在英国也被作为“无神论同性恋勇士”而纪念",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 13937,
+        "end_char": 13939,
+        "sentence": "106年前的今天（6月23日），阿兰·麦席森·图灵在英国伦敦出生",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 14150,
+        "end_char": 14152,
+        "sentence": "然而，图灵这篇跨时代的论文在当时被自己的领导、英国国家物理实验室主任查尔斯·达尔文斥之为“小学生作文”，不予发表",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 16381,
+        "end_char": 16383,
+        "sentence": "就仿佛半个世纪前，那位来自英国的天才从未踏足过这片领土",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 18716,
+        "end_char": 18718,
+        "sentence": "艾伦·图灵（Alan Turing），1912 年 6 月 23 日出生在英国伦敦的一个富裕家庭",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 19403,
+        "end_char": 19405,
+        "sentence": "他的人生故事是闪耀的但并非总是光明的，他因同性恋倾向而遭到当时的英国政府迫害，职业生涯尽毁，1954 年 6 月 7 日去世，被发现时身边有一个吃了一半的苹果，普遍推测是食用浸过氰化物溶液的苹果而去世",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 19632,
+        "end_char": 19634,
+        "sentence": "2009 年，英国前首相戈登·布朗代表英国政府为图灵当年受到的不公正待遇公开致歉，2013 年他获得了英国皇家特赦，他终得平反",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 19644,
+        "end_char": 19646,
+        "sentence": "2009 年，英国前首相戈登·布朗代表英国政府为图灵当年受到的不公正待遇公开致歉，2013 年他获得了英国皇家特赦，他终得平反",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "英国",
+        "start_char": 19676,
+        "end_char": 19678,
+        "sentence": "2009 年，英国前首相戈登·布朗代表英国政府为图灵当年受到的不公正待遇公开致歉，2013 年他获得了英国皇家特赦，他终得平反",
+        "type_code": "LOC"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的地点实体，规范名称为“英国”。"
+  },
+  {
+    "id": "ENT_025",
+    "canonical_name": "国家物理实验室",
+    "type_code": "ORG",
+    "type_name": "组织机构",
+    "mentions": [
+      {
+        "mention": "国家物理实验室",
+        "start_char": 2405,
+        "end_char": 2412,
+        "sentence": "第二次世界大战结束后，英国国家物理实验室（NPL）力邀图灵加入，ACE（自动计算引擎，Automatic Computing Engine）是图灵为NPL设计的计算机",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "NPL",
+        "start_char": 2413,
+        "end_char": 2416,
+        "sentence": "第二次世界大战结束后，英国国家物理实验室（NPL）力邀图灵加入，ACE（自动计算引擎，Automatic Computing Engine）是图灵为NPL设计的计算机",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "NPL",
+        "start_char": 2466,
+        "end_char": 2469,
+        "sentence": "第二次世界大战结束后，英国国家物理实验室（NPL）力邀图灵加入，ACE（自动计算引擎，Automatic Computing Engine）是图灵为NPL设计的计算机",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "NPL",
+        "start_char": 2477,
+        "end_char": 2480,
+        "sentence": "在NPL工作一年后，图灵厌恶其中的政治斗争，前往母校剑桥大学休假一年",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "NPL",
+        "start_char": 2518,
+        "end_char": 2521,
+        "sentence": "回来后，图灵给NPL提交了一份报告，题为《智能机器》（“Intelligent Machinery”，下文简称“图灵-1948”）",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "国家物理实验室",
+        "start_char": 6367,
+        "end_char": 6374,
+        "sentence": "信件跨时1949至1954年：当时图灵刚完成在政府密码学校和国家物理实验室的工作，在曼彻斯特大学任计算机实验室的副主任",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "国家物理实验室",
+        "start_char": 14152,
+        "end_char": 14159,
+        "sentence": "然而，图灵这篇跨时代的论文在当时被自己的领导、英国国家物理实验室主任查尔斯·达尔文斥之为“小学生作文”，不予发表",
+        "type_code": "ORG"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的组织机构实体，规范名称为“国家物理实验室”。"
+  },
+  {
+    "id": "ENT_026",
+    "canonical_name": "智能机器",
+    "type_code": "WORK",
+    "type_name": "作品",
+    "mentions": [
+      {
+        "mention": "智能机器",
+        "start_char": 2532,
+        "end_char": 2536,
+        "sentence": "回来后，图灵给NPL提交了一份报告，题为《智能机器》（“Intelligent Machinery”，下文简称“图灵-1948”）",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "智能机器",
+        "start_char": 5493,
+        "end_char": 5497,
+        "sentence": "此番做注，给了我修正的机会：把图灵1948年的“智能机器”、杰弗逊1949年的“机器人之心”和1952年的BBC讨论一并译出，作为图灵-1950的补充阅读",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "智能机器",
+        "start_char": 8811,
+        "end_char": 8815,
+        "sentence": "他所设想不受物理条件限制的、理想化的机器智能是对人类心灵的概念化模拟，这种概念化模拟抽象并机械化了人类心灵，蕴含着他对自我认同的期许——作为一个孤僻的天才少年及同性恋者，因同性恋当时在英国违法且有悖社会道德，图灵始终希望能像他的智能机器那样自由",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "智能机器",
+        "start_char": 8885,
+        "end_char": 8889,
+        "sentence": "最后，他希望智能机器能超越其创造者——人类科学家，并成为一个新的种族，使得人类作为一个族群自认卑微，这一点挑战了人之所以为人的既有概念",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "智能机器",
+        "start_char": 14009,
+        "end_char": 14013,
+        "sentence": "在这篇写于1948年、题为《智能机器》的论文里，图灵第一次为世人勾勒出了人工智能领域的轮廓",
+        "type_code": "WORK"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的作品实体，规范名称为“智能机器”。"
+  },
+  {
+    "id": "ENT_027",
+    "canonical_name": "神经网络",
+    "type_code": "CONCEPT",
+    "type_name": "概念",
+    "mentions": [
+      {
+        "mention": "神经网络",
+        "start_char": 2667,
+        "end_char": 2671,
+        "sentence": "图灵-1948的内容更加广博，例如，图灵在其中详细讨论了神经网络，并认为可以训练神经网络，使之成为通用计算机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 2679,
+        "end_char": 2683,
+        "sentence": "图灵-1948的内容更加广博，例如，图灵在其中详细讨论了神经网络，并认为可以训练神经网络，使之成为通用计算机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 16677,
+        "end_char": 16681,
+        "sentence": "在论文中，图灵发明了一种他称之为“B型非结构化机器”的神经网络，包含人工神经元以及可以对神经元之间的联结进行调节的设备",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 17436,
+        "end_char": 17440,
+        "sentence": "由于对已有联结的破坏在功能上等同于新的联结的产生，研究者们就能通过使用一个包含额外联结的网络，并选择性地破坏一部分联结的方式来构建针对特定任务的神经网络",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 17514,
+        "end_char": 17518,
+        "sentence": "图灵还希望能够发掘其他种类的非结构化机器，他一直想用一台普通的数字计算机对一个神经网络极其训练机制进行模拟",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 17624,
+        "end_char": 17628,
+        "sentence": "然而，在用上第一批通用电子计算机之前，图灵就已经开始了自己在神经网络方面的工作（1954年Belmont G. Farley和Wesley A. Clark在MIT成功运行了对于小型神经网络的首次电脑模拟）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 17685,
+        "end_char": 17689,
+        "sentence": "然而，在用上第一批通用电子计算机之前，图灵就已经开始了自己在神经网络方面的工作（1954年Belmont G. Farley和Wesley A. Clark在MIT成功运行了对于小型神经网络的首次电脑模拟）",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 17724,
+        "end_char": 17728,
+        "sentence": "尽管图灵单单用纸和笔就能够证明，一个足够大的B型神经网络经过如此配置之后就能变成一台通用计算机",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 17918,
+        "end_char": 17922,
+        "sentence": "图灵的发现则为这一问题指明了一个方向：自上而下来看，如通用计算机一般工作的神经网络能够执行那些连续的、富于符号表征的处理工作，因此应该把关注点放在大脑皮层上",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 18125,
+        "end_char": 18129,
+        "sentence": "他称，这项研究与自己在神经网络方面的研究“并非毫无关联”，因为“大脑的结构必须……通过遗传上的胚胎学机制而实现，而且，我正在研究的这种理论可能会更好地说明这一过程意味着怎样的局限性",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "神经网络",
+        "start_char": 20911,
+        "end_char": 20915,
+        "sentence": "图灵的计算理论直接影响了从简单算法到复杂大规模 AI 模型的发展，使得今天的深度学习和神经网络成为可能",
+        "type_code": "CONCEPT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的概念实体，规范名称为“神经网络”。"
+  },
+  {
+    "id": "ENT_028",
+    "canonical_name": "纽曼",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "纽曼",
+        "start_char": 2951,
+        "end_char": 2953,
+        "sentence": "参加讨论的人，除了图灵外，还有图灵的老师、数学家纽曼和曼彻斯特大学的神经外科教授杰弗逊（Geoffrey Jefferson，1886-1961）等",
+        "type_code": "PER"
+      },
+      {
+        "mention": "纽曼",
+        "start_char": 3282,
+        "end_char": 3284,
+        "sentence": "整场基本是图灵和杰弗逊之间的辩论，而纽曼无疑站在图灵一边",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“纽曼”。"
+  },
+  {
+    "id": "ENT_029",
+    "canonical_name": "曼彻斯特大学",
+    "type_code": "ORG",
+    "type_name": "组织机构",
+    "mentions": [
+      {
+        "mention": "曼彻斯特大学",
+        "start_char": 2954,
+        "end_char": 2960,
+        "sentence": "参加讨论的人，除了图灵外，还有图灵的老师、数学家纽曼和曼彻斯特大学的神经外科教授杰弗逊（Geoffrey Jefferson，1886-1961）等",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "曼彻斯特大学",
+        "start_char": 6302,
+        "end_char": 6308,
+        "sentence": "这些信件被发现于图灵曾经工作过的曼彻斯特大学，被时光遗忘了数十载，最近有人在清理储藏室的时候偶然发现",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "曼彻斯特大学",
+        "start_char": 6379,
+        "end_char": 6385,
+        "sentence": "信件跨时1949至1954年：当时图灵刚完成在政府密码学校和国家物理实验室的工作，在曼彻斯特大学任计算机实验室的副主任",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "曼彻斯特大学",
+        "start_char": 6957,
+        "end_char": 6963,
+        "sentence": "曼彻斯特大学发现的这批信件多与图灵的工作有关，包括研究人工智能问题的手稿，也包括邀请图灵去美国高等院校演讲的信函",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "曼彻斯特大学",
+        "start_char": 7648,
+        "end_char": 7654,
+        "sentence": "在人工生命的研究中，图灵也运用了在曼彻斯特大学计算机实验室工作时参与设计的Mark I计算机来生成合子形态基因的化学机制",
+        "type_code": "ORG"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的组织机构实体，规范名称为“曼彻斯特大学”。"
+  },
+  {
+    "id": "ENT_030",
+    "canonical_name": "杰弗逊",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "杰弗逊",
+        "start_char": 2967,
+        "end_char": 2970,
+        "sentence": "参加讨论的人，除了图灵外，还有图灵的老师、数学家纽曼和曼彻斯特大学的神经外科教授杰弗逊（Geoffrey Jefferson，1886-1961）等",
+        "type_code": "PER"
+      },
+      {
+        "mention": "杰弗逊",
+        "start_char": 3002,
+        "end_char": 3005,
+        "sentence": "杰弗逊1948年获得皇家学会和皇家外科学会颁发的李斯特（Lister）奖章，他的获奖演说题为“机器人之心”（The Mind of Mechanical Man），其中他明确表达了自己的立场：机器不能思考",
+        "type_code": "PER"
+      },
+      {
+        "mention": "杰弗逊",
+        "start_char": 3133,
+        "end_char": 3136,
+        "sentence": "图灵-1950中有一节（“来自意识的异议”）就是专门针对杰弗逊获奖演说的批评",
+        "type_code": "PER"
+      },
+      {
+        "mention": "杰弗逊",
+        "start_char": 3211,
+        "end_char": 3214,
+        "sentence": "事实上，如果我们非要说图灵-1950和图灵-1948有什么实质性不同的话，图灵在写作图灵-1950时，内心有个更具体的辩论对象，那就是杰弗逊",
+        "type_code": "PER"
+      },
+      {
+        "mention": "杰弗逊",
+        "start_char": 3272,
+        "end_char": 3275,
+        "sentence": "整场基本是图灵和杰弗逊之间的辩论，而纽曼无疑站在图灵一边",
+        "type_code": "PER"
+      },
+      {
+        "mention": "杰弗逊",
+        "start_char": 3454,
+        "end_char": 3457,
+        "sentence": "就像博学且善辩的杰弗逊在他演讲的结尾自称是和人文主义者莎士比亚一伙儿的，然后马上就恰到好处地拎出了《哈姆雷特》：“人类是一件了不起的杰作",
+        "type_code": "PER"
+      },
+      {
+        "mention": "杰弗逊",
+        "start_char": 5499,
+        "end_char": 5502,
+        "sentence": "此番做注，给了我修正的机会：把图灵1948年的“智能机器”、杰弗逊1949年的“机器人之心”和1952年的BBC讨论一并译出，作为图灵-1950的补充阅读",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“杰弗逊”。"
+  },
+  {
+    "id": "ENT_031",
+    "canonical_name": "皇家学会",
+    "type_code": "ORG",
+    "type_name": "组织机构",
+    "mentions": [
+      {
+        "mention": "皇家学会",
+        "start_char": 3012,
+        "end_char": 3016,
+        "sentence": "杰弗逊1948年获得皇家学会和皇家外科学会颁发的李斯特（Lister）奖章，他的获奖演说题为“机器人之心”（The Mind of Mechanical Man），其中他明确表达了自己的立场：机器不能思考",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "皇家学会",
+        "start_char": 6557,
+        "end_char": 6561,
+        "sentence": "1951年，图灵当选为皇家学会会员——英国最具威望的机构认可了他的才能和成就",
+        "type_code": "ORG"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的组织机构实体，规范名称为“皇家学会”。"
+  },
+  {
+    "id": "ENT_032",
+    "canonical_name": "莎士比亚",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "莎士比亚",
+        "start_char": 3473,
+        "end_char": 3477,
+        "sentence": "就像博学且善辩的杰弗逊在他演讲的结尾自称是和人文主义者莎士比亚一伙儿的，然后马上就恰到好处地拎出了《哈姆雷特》：“人类是一件了不起的杰作",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“莎士比亚”。"
+  },
+  {
+    "id": "ENT_033",
+    "canonical_name": "哈姆雷特",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "哈姆雷特",
+        "start_char": 3496,
+        "end_char": 3500,
+        "sentence": "就像博学且善辩的杰弗逊在他演讲的结尾自称是和人文主义者莎士比亚一伙儿的，然后马上就恰到好处地拎出了《哈姆雷特》：“人类是一件了不起的杰作",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“哈姆雷特”。"
+  },
+  {
+    "id": "ENT_034",
+    "canonical_name": "罗素",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "罗素",
+        "start_char": 4208,
+        "end_char": 4210,
+        "sentence": "罗素和怀特海的大部头，借用了牛顿，直接是拉丁文Principia Mathematica（《数学原理》），讲的是逻辑，他们当然配得上",
+        "type_code": "PER"
+      },
+      {
+        "mention": "罗素",
+        "start_char": 5383,
+        "end_char": 5385,
+        "sentence": "如果罗素当时知道计算理论，他肯定会重写《心的分析》",
+        "type_code": "PER"
+      },
+      {
+        "mention": "罗素",
+        "start_char": 9380,
+        "end_char": 9382,
+        "sentence": "图灵成长的时代，科学与哲学的分界并不那么泾渭分明，许多科学家也是哲学家，比如罗素",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“罗素”。"
+  },
+  {
+    "id": "ENT_035",
+    "canonical_name": "周以真",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "周以真",
+        "start_char": 4383,
+        "end_char": 4386,
+        "sentence": "哥伦比亚大学的周以真（Jeannette Wing）曾呼吁把“计算思维”（Computational Thinking）作为通识教育的一部分",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“周以真”。"
+  },
+  {
+    "id": "ENT_036",
+    "canonical_name": "斯诺",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "斯诺",
+        "start_char": 4777,
+        "end_char": 4779,
+        "sentence": "英国通才斯诺（C. P. Snow）在1950年代末看到不可愈合的文、理两种文化之分",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“斯诺”。"
+  },
+  {
+    "id": "ENT_037",
+    "canonical_name": "维格纳",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "维格纳",
+        "start_char": 4961,
+        "end_char": 4964,
+        "sentence": "数学物理学家尤金·维格纳（Eugene Wigner）曾经写过一篇有名的文章《数学在自然科学中出奇地管用》（“Unreasonable Effectiveness of Mathematics in the Natural Sciences”）",
+        "type_code": "PER"
+      },
+      {
+        "mention": "维格纳",
+        "start_char": 5371,
+        "end_char": 5374,
+        "sentence": "不只是自然科学，还有生命科学，这恰是维格纳对数学的期望",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“维格纳”。"
+  },
+  {
+    "id": "ENT_038",
+    "canonical_name": "费曼",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "费曼",
+        "start_char": 5096,
+        "end_char": 5098,
+        "sentence": "当然，每个人都有夸大自己学科重要性的倾向，费曼在他的《物理学讲义》里思考了物理学和化学、生物学、天文学、地质学乃至心理学的关系",
+        "type_code": "PER"
+      },
+      {
+        "mention": "费曼",
+        "start_char": 5139,
+        "end_char": 5141,
+        "sentence": "费曼在讨论心理学时讲到了计算机与神经系统的关系，考虑到费曼和同校的米德（Carver Mead）的紧密关系，这不奇怪，费曼在去世前，还讲过计算机设计和理论的课程呢",
+        "type_code": "PER"
+      },
+      {
+        "mention": "费曼",
+        "start_char": 5166,
+        "end_char": 5168,
+        "sentence": "费曼在讨论心理学时讲到了计算机与神经系统的关系，考虑到费曼和同校的米德（Carver Mead）的紧密关系，这不奇怪，费曼在去世前，还讲过计算机设计和理论的课程呢",
+        "type_code": "PER"
+      },
+      {
+        "mention": "费曼",
+        "start_char": 5198,
+        "end_char": 5200,
+        "sentence": "费曼在讨论心理学时讲到了计算机与神经系统的关系，考虑到费曼和同校的米德（Carver Mead）的紧密关系，这不奇怪，费曼在去世前，还讲过计算机设计和理论的课程呢",
+        "type_code": "PER"
+      },
+      {
+        "mention": "费曼",
+        "start_char": 5228,
+        "end_char": 5230,
+        "sentence": "但心理学大概是费曼可以游走到的最远的学科了，他曾经毫不客气地指出社会科学不是科学",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“费曼”。"
+  },
+  {
+    "id": "ENT_039",
+    "canonical_name": "米德",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "米德",
+        "start_char": 5172,
+        "end_char": 5174,
+        "sentence": "费曼在讨论心理学时讲到了计算机与神经系统的关系，考虑到费曼和同校的米德（Carver Mead）的紧密关系，这不奇怪，费曼在去世前，还讲过计算机设计和理论的课程呢",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“米德”。"
+  },
+  {
+    "id": "ENT_040",
+    "canonical_name": "卷福",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "卷福",
+        "start_char": 5749,
+        "end_char": 5751,
+        "sentence": "2014年，由饰演新版福尔摩斯而红遍全球的英国演员“卷福” (Benedict Cumberbatch)主演的电影《模仿游戏》，让常被誉为“人工智能之父”的英国数学家图灵被大众所熟悉，尤其是他古怪的一面和悲剧的人生",
+        "type_code": "PER"
+      },
+      {
+        "mention": "卷福",
+        "start_char": 8290,
+        "end_char": 8292,
+        "sentence": "另一方面，卷福是那种在人群中会发光、天生具有个人魅力的演员，他可以演出图灵的古怪，但不能表现图灵的随和、朴素和寻常，也因此抹杀了图灵对广大普通人的意义",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“卷福”。"
+  },
+  {
+    "id": "ENT_041",
+    "canonical_name": "模仿游戏",
+    "type_code": "WORK",
+    "type_name": "作品",
+    "mentions": [
+      {
+        "mention": "模仿游戏",
+        "start_char": 5781,
+        "end_char": 5785,
+        "sentence": "2014年，由饰演新版福尔摩斯而红遍全球的英国演员“卷福” (Benedict Cumberbatch)主演的电影《模仿游戏》，让常被誉为“人工智能之父”的英国数学家图灵被大众所熟悉，尤其是他古怪的一面和悲剧的人生",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "模仿游戏",
+        "start_char": 8029,
+        "end_char": 8033,
+        "sentence": "2015年的奥斯卡颁奖礼上，电影《模仿游戏》获得剧本改编奖，其剧作者的一番感言在网络上走红，为大家默认的图灵的边缘化人格作了肯定：“ 在我十六岁的时候我想过自杀，因为觉得自己太古怪、和别人不同、格格不入、无所适从",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "模仿游戏",
+        "start_char": 10208,
+        "end_char": 10212,
+        "sentence": "如果说图灵在《模仿游戏》突出了他破解的德国密码，那么他借机器大脑而作的本体论反思则可谓是一种灵性密码",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "模仿游戏",
+        "start_char": 20295,
+        "end_char": 20299,
+        "sentence": "图灵 1950 年在哲学杂志《心》上发表的文章《计算机与智能》（Computing Machinery and Intelligence）中把“机器能思考吗”的问题转换为一种模仿游戏——后世称为“图灵测试”，这是人工智能的起源",
+        "type_code": "WORK"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的作品实体，规范名称为“模仿游戏”。"
+  },
+  {
+    "id": "ENT_042",
+    "canonical_name": "1912年",
+    "type_code": "DATE",
+    "type_name": "日期",
+    "mentions": [
+      {
+        "mention": "1912年",
+        "start_char": 5836,
+        "end_char": 5841,
+        "sentence": "图灵于1912年生于伦敦",
+        "type_code": "DATE"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的日期实体，规范名称为“1912年”。"
+  },
+  {
+    "id": "ENT_043",
+    "canonical_name": "伦敦",
+    "type_code": "LOC",
+    "type_name": "地点",
+    "mentions": [
+      {
+        "mention": "伦敦",
+        "start_char": 5843,
+        "end_char": 5845,
+        "sentence": "图灵于1912年生于伦敦",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "伦敦",
+        "start_char": 13939,
+        "end_char": 13941,
+        "sentence": "106年前的今天（6月23日），阿兰·麦席森·图灵在英国伦敦出生",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "伦敦",
+        "start_char": 18718,
+        "end_char": 18720,
+        "sentence": "艾伦·图灵（Alan Turing），1912 年 6 月 23 日出生在英国伦敦的一个富裕家庭",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "伦敦",
+        "start_char": 19324,
+        "end_char": 19326,
+        "sentence": "他的马拉松最好成绩是 2 小时 46 分 03 秒（手动计时），只比 1948 年伦敦奥运会男子马拉松冠军 Delfo Cabrera 慢了 11 分钟",
+        "type_code": "LOC"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的地点实体，规范名称为“伦敦”。"
+  },
+  {
+    "id": "ENT_044",
+    "canonical_name": "普林斯顿大学",
+    "type_code": "ORG",
+    "type_name": "组织机构",
+    "mentions": [
+      {
+        "mention": "普林斯顿大学",
+        "start_char": 5897,
+        "end_char": 5903,
+        "sentence": "从谢波恩公学和剑桥大学毕业后，图灵在普林斯顿大学取得博士学位，然后回到英国",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "普林斯顿",
+        "start_char": 7141,
+        "end_char": 7145,
+        "sentence": "尽管个人色彩极少，此次发现的信件中也可以看出图灵本人对美国并不感冒，比如他曾戏称“美国流氓”——尽管他曾在普林斯顿攻读博士学位",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "普林斯顿大学",
+        "start_char": 13538,
+        "end_char": 13544,
+        "sentence": "当普林斯顿大学理论计算机科学家 Sanjeev Arora 教授这个概念时，他强调了更广泛的哲学描绘",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "普林斯顿大学",
+        "start_char": 16050,
+        "end_char": 16056,
+        "sentence": "在数理逻辑之外，图灵的”“预言机”“几乎被忘得一干二净；相反，一个神话被人们供奉了起来：在一份子虚乌有的记录中，图灵在二十世纪三十年代中期成功证明了超机器是可能的——传言中，他与自己在普林斯顿大学的博士生导师阿隆佐·邱奇宣称一台通用图灵机可以精确地模拟任何其他信息处理机器的行为",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "普林斯顿大学",
+        "start_char": 19024,
+        "end_char": 19030,
+        "sentence": "1936 年至 1938 年，图灵在美国普林斯顿大学跟随著名数学家阿隆佐·丘奇学习，并获得了博士学位",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "普林斯顿",
+        "start_char": 19056,
+        "end_char": 19060,
+        "sentence": "在普林斯顿期间，他继续研究数学逻辑和密码学，为后来的工作打下了坚实的基础",
+        "type_code": "LOC"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的组织机构实体，规范名称为“普林斯顿大学”。"
+  },
+  {
+    "id": "ENT_045",
+    "canonical_name": "政府密码学校",
+    "type_code": "ORG",
+    "type_name": "组织机构",
+    "mentions": [
+      {
+        "mention": "政府密码学校",
+        "start_char": 5978,
+        "end_char": 5984,
+        "sentence": "二战时，图灵被招去政府通讯信总部（战时的政府密码学校）工作，为英国破译德军的密码，听命于军情六处（对，就是007系列中的MI6）指挥",
+        "type_code": "ORG"
+      },
+      {
+        "mention": "政府密码学校",
+        "start_char": 6360,
+        "end_char": 6366,
+        "sentence": "信件跨时1949至1954年：当时图灵刚完成在政府密码学校和国家物理实验室的工作，在曼彻斯特大学任计算机实验室的副主任",
+        "type_code": "ORG"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的组织机构实体，规范名称为“政府密码学校”。"
+  },
+  {
+    "id": "ENT_046",
+    "canonical_name": "军情六处",
+    "type_code": "ORG",
+    "type_name": "组织机构",
+    "mentions": [
+      {
+        "mention": "军情六处",
+        "start_char": 6002,
+        "end_char": 6006,
+        "sentence": "二战时，图灵被招去政府通讯信总部（战时的政府密码学校）工作，为英国破译德军的密码，听命于军情六处（对，就是007系列中的MI6）指挥",
+        "type_code": "ORG"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的组织机构实体，规范名称为“军情六处”。"
+  },
+  {
+    "id": "ENT_047",
+    "canonical_name": "恩尼格玛",
+    "type_code": "CONCEPT",
+    "type_name": "概念",
+    "mentions": [
+      {
+        "mention": "Enigma",
+        "start_char": 6048,
+        "end_char": 6054,
+        "sentence": "图灵小组设计的电机破译了德国的恩尼格码密码机（Enigma），成功扭转了战局",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "Enigma",
+        "start_char": 18566,
+        "end_char": 18572,
+        "sentence": "从二战时期破解 Enigma，到提出划时代的图灵机和图灵测试，图灵的工作不仅推动了计算机科学的发展，他的思想和创新在当今的科技世界中依然熠熠生辉",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "Enigma",
+        "start_char": 19151,
+        "end_char": 19157,
+        "sentence": "1939 年，第二次世界大战开始，在白金汉郡布莱切利庄园的战时密码分析总部，图灵开始了高度保密的工作——破解德国的 Enigma",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "恩尼格玛",
+        "start_char": 19185,
+        "end_char": 19189,
+        "sentence": "他在这里发挥了关键作用，特别是在设计和改进用于破解德国恩尼格玛密码的机器（如 Bombe）",
+        "type_code": "CONCEPT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的概念实体，规范名称为“恩尼格玛”。"
+  },
+  {
+    "id": "ENT_048",
+    "canonical_name": "1954年",
+    "type_code": "DATE",
+    "type_name": "日期",
+    "mentions": [
+      {
+        "mention": "1954年",
+        "start_char": 6346,
+        "end_char": 6351,
+        "sentence": "信件跨时1949至1954年：当时图灵刚完成在政府密码学校和国家物理实验室的工作，在曼彻斯特大学任计算机实验室的副主任",
+        "type_code": "DATE"
+      },
+      {
+        "mention": "1954年",
+        "start_char": 6750,
+        "end_char": 6755,
+        "sentence": "1954年，就在图灵42岁生日前不久，他在曼彻斯特的寓所里悄然辞世",
+        "type_code": "DATE"
+      },
+      {
+        "mention": "1954年",
+        "start_char": 7756,
+        "end_char": 7761,
+        "sentence": "譬如在1954年，图灵在曼彻斯特的寓所突然死亡前的一个月，他在给好友的明信片里写道，",
+        "type_code": "DATE"
+      },
+      {
+        "mention": "1954年",
+        "start_char": 17634,
+        "end_char": 17639,
+        "sentence": "然而，在用上第一批通用电子计算机之前，图灵就已经开始了自己在神经网络方面的工作（1954年Belmont G. Farley和Wesley A. Clark在MIT成功运行了对于小型神经网络的首次电脑模拟）",
+        "type_code": "DATE"
+      },
+      {
+        "mention": "1954年",
+        "start_char": 18289,
+        "end_char": 18294,
+        "sentence": "1954年6月8日，图灵被发现在自己的卧室中死于氰化物中毒",
+        "type_code": "DATE"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的日期实体，规范名称为“1954年”。"
+  },
+  {
+    "id": "ENT_049",
+    "canonical_name": "曼彻斯特",
+    "type_code": "LOC",
+    "type_name": "地点",
+    "mentions": [
+      {
+        "mention": "曼彻斯特",
+        "start_char": 6588,
+        "end_char": 6592,
+        "sentence": "但曼彻斯特也为图灵短暂的一生划上了句号：1952年，图灵向警方报告了一起入室抢劫案，警方认为他与男性有不正当亲密关系而将他逮捕：当时英国规定同性恋行属于严重猥亵罪（gross indecency），刑罚通常是牢狱或激素注射，以改造当事人",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "曼彻斯特",
+        "start_char": 6771,
+        "end_char": 6775,
+        "sentence": "1954年，就在图灵42岁生日前不久，他在曼彻斯特的寓所里悄然辞世",
+        "type_code": "LOC"
+      },
+      {
+        "mention": "曼彻斯特",
+        "start_char": 7765,
+        "end_char": 7769,
+        "sentence": "譬如在1954年，图灵在曼彻斯特的寓所突然死亡前的一个月，他在给好友的明信片里写道，",
+        "type_code": "LOC"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的地点实体，规范名称为“曼彻斯特”。"
+  },
+  {
+    "id": "ENT_050",
+    "canonical_name": "皇家赦免",
+    "type_code": "EVENT",
+    "type_name": "事件",
+    "mentions": [
+      {
+        "mention": "皇家赦免",
+        "start_char": 6866,
+        "end_char": 6870,
+        "sentence": "尽管在2013年，图灵逝世六十一年后得到皇家赦免，他曾遭受的刑判和在盛年过世的遗憾依然让世人唏嘘",
+        "type_code": "EVENT"
+      },
+      {
+        "mention": "皇家特赦",
+        "start_char": 19678,
+        "end_char": 19682,
+        "sentence": "2009 年，英国前首相戈登·布朗代表英国政府为图灵当年受到的不公正待遇公开致歉，2013 年他获得了英国皇家特赦，他终得平反",
+        "type_code": "EVENT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的事件实体，规范名称为“皇家赦免”。"
+  },
+  {
+    "id": "ENT_051",
+    "canonical_name": "艾丁顿",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "艾丁顿",
+        "start_char": 7937,
+        "end_char": 7940,
+        "sentence": "图灵给这一批明信片起名为“来自看不见的世界的信”，出自他非常敬重的英国科学家亚瑟·艾丁顿——艾丁顿也是一名虔诚的贵格会信徒，在他被图灵引用的作品《科学与看不见的世界》中曾谈到超验与科学的平衡",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾丁顿",
+        "start_char": 7942,
+        "end_char": 7945,
+        "sentence": "图灵给这一批明信片起名为“来自看不见的世界的信”，出自他非常敬重的英国科学家亚瑟·艾丁顿——艾丁顿也是一名虔诚的贵格会信徒，在他被图灵引用的作品《科学与看不见的世界》中曾谈到超验与科学的平衡",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾丁顿",
+        "start_char": 9447,
+        "end_char": 9450,
+        "sentence": "影响图灵思想的三个理论源头，包括德国理想主义（或译作唯心主义）、大卫·希尔伯特和库尔特·哥德尔的数学哲学、虔诚的贵格会教徒亚瑟·艾丁顿的物理学，在各自的科学学说中都关注本体论和知识论的问题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾丁顿",
+        "start_char": 9478,
+        "end_char": 9481,
+        "sentence": "艾丁顿对图灵的影响尤其深刻，图灵的最后几封明信片都引自艾丁顿的著作，“来自看不见的世界的讯息”，“科学是微分方程，宗教是边界条件”，暗含图灵死前对科学如何理解和表达生死以及人类意义的本体论思考",
+        "type_code": "PER"
+      },
+      {
+        "mention": "艾丁顿",
+        "start_char": 9505,
+        "end_char": 9508,
+        "sentence": "艾丁顿对图灵的影响尤其深刻，图灵的最后几封明信片都引自艾丁顿的著作，“来自看不见的世界的讯息”，“科学是微分方程，宗教是边界条件”，暗含图灵死前对科学如何理解和表达生死以及人类意义的本体论思考",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“艾丁顿”。"
+  },
+  {
+    "id": "ENT_052",
+    "canonical_name": "机器智能",
+    "type_code": "CONCEPT",
+    "type_name": "概念",
+    "mentions": [
+      {
+        "mention": "机器智能",
+        "start_char": 8651,
+        "end_char": 8655,
+        "sentence": "图灵“机器智能”（machine intelligence）概念的背后有深层的个人与社会文化因素",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "机器智能",
+        "start_char": 8715,
+        "end_char": 8719,
+        "sentence": "他所设想不受物理条件限制的、理想化的机器智能是对人类心灵的概念化模拟，这种概念化模拟抽象并机械化了人类心灵，蕴含着他对自我认同的期许——作为一个孤僻的天才少年及同性恋者，因同性恋当时在英国违法且有悖社会道德，图灵始终希望能像他的智能机器那样自由",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "机器智能",
+        "start_char": 8837,
+        "end_char": 8841,
+        "sentence": "再者，有自我反馈、重塑、再造功能的机器智能通过模拟和自我再创造在理论上不受物理世界的限制，从而超越人类生存时空的局限",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "机器智能",
+        "start_char": 8953,
+        "end_char": 8957,
+        "sentence": "建立在图灵的机器智能理念上的人工智能作为一名学科，也寄予着人类自我理解、再造及自我超越的意向",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "机器智能",
+        "start_char": 18505,
+        "end_char": 18509,
+        "sentence": "在谈到人类智慧与机器智能的交汇时，我们无法绕过一个闪耀的名字——艾伦·图灵",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "机器智能",
+        "start_char": 20600,
+        "end_char": 20604,
+        "sentence": "图灵测试不仅提出了机器智能的概念，还引发了对智能本质的深刻思考",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "机器智能",
+        "start_char": 20863,
+        "end_char": 20867,
+        "sentence": "此外，图灵测试作为评判 AI 智能的重要标准，激励着人工智能研究的发展，推动我们追求更高级、更自然的机器智能",
+        "type_code": "CONCEPT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的概念实体，规范名称为“机器智能”。"
+  },
+  {
+    "id": "ENT_053",
+    "canonical_name": "大卫·希尔伯特",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "大卫·希尔伯特",
+        "start_char": 9415,
+        "end_char": 9422,
+        "sentence": "影响图灵思想的三个理论源头，包括德国理想主义（或译作唯心主义）、大卫·希尔伯特和库尔特·哥德尔的数学哲学、虔诚的贵格会教徒亚瑟·艾丁顿的物理学，在各自的科学学说中都关注本体论和知识论的问题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "希尔伯特",
+        "start_char": 11227,
+        "end_char": 11231,
+        "sentence": "1928 年，德国数学家大卫・希尔伯特（David Hilbert）和威廉・阿克曼（ Wilhelm Ackermann）提出了一个名为 Entscheidungsproblem（即「判定性问题」）的问题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "希尔伯特",
+        "start_char": 13178,
+        "end_char": 13182,
+        "sentence": "这两件事对希尔伯特来说都是毁灭性的打击，他曾希望数学能给出简洁、理想化的答案",
+        "type_code": "PER"
+      },
+      {
+        "mention": "希尔伯特",
+        "start_char": 18979,
+        "end_char": 18983,
+        "sentence": "这一工作不仅解决了希尔伯特的决断问题，还奠定了现代计算理论的基础",
+        "type_code": "PER"
+      },
+      {
+        "mention": "希尔伯特",
+        "start_char": 20096,
+        "end_char": 20100,
+        "sentence": "这一结果回答了希尔伯特的决断问题，表明了数学中存在不可计算的问题",
+        "type_code": "PER"
+      },
+      {
+        "mention": "希尔伯特",
+        "start_char": 20133,
+        "end_char": 20137,
+        "sentence": "图灵机的提出不仅解决了希尔伯特的决断问题，还为现代计算机的设计提供了理论基础",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“大卫·希尔伯特”。"
+  },
+  {
+    "id": "ENT_054",
+    "canonical_name": "联结主义",
+    "type_code": "CONCEPT",
+    "type_name": "概念",
+    "mentions": [
+      {
+        "mention": "联结主义",
+        "start_char": 14047,
+        "end_char": 14051,
+        "sentence": "他不仅为联结主义理论奠定了基础，还引入了多种对于日后的AI研究至关重要的概念",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "联结主义",
+        "start_char": 14089,
+        "end_char": 14093,
+        "sentence": "而在此之前，联结主义被广泛认为起源于在1957年首次发表相关论文的弗兰克·罗森布拉特",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "联结主义",
+        "start_char": 16408,
+        "end_char": 16412,
+        "sentence": "忧伤的是，那只不过是图灵联结主义思想的又一次复活罢了",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "联结主义",
+        "start_char": 16642,
+        "end_char": 16646,
+        "sentence": "这一年，他在一篇未能发表的论文中第一次引入了联结主义的思想",
+        "type_code": "CONCEPT"
+      },
+      {
+        "mention": "联结主义",
+        "start_char": 17316,
+        "end_char": 17320,
+        "sentence": "1958年，罗森布拉特曾经以一句话给联结主义的理论基础下了定义：“被存储的信息以新的联结——或是神经系统内传输信道的形式而存在",
+        "type_code": "CONCEPT"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的概念实体，规范名称为“联结主义”。"
+  },
+  {
+    "id": "ENT_055",
+    "canonical_name": "罗森布拉特",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "罗森布拉特",
+        "start_char": 14120,
+        "end_char": 14125,
+        "sentence": "而在此之前，联结主义被广泛认为起源于在1957年首次发表相关论文的弗兰克·罗森布拉特",
+        "type_code": "PER"
+      },
+      {
+        "mention": "罗森布拉特",
+        "start_char": 17304,
+        "end_char": 17309,
+        "sentence": "1958年，罗森布拉特曾经以一句话给联结主义的理论基础下了定义：“被存储的信息以新的联结——或是神经系统内传输信道的形式而存在",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“罗森布拉特”。"
+  },
+  {
+    "id": "ENT_056",
+    "canonical_name": "可计算数",
+    "type_code": "WORK",
+    "type_name": "作品",
+    "mentions": [
+      {
+        "mention": "可计算数",
+        "start_char": 18946,
+        "end_char": 18950,
+        "sentence": "1936 年，图灵发表了划时代的论文《论可计算数》，在这篇论文中，他提出了图灵机的概念",
+        "type_code": "WORK"
+      },
+      {
+        "mention": "可计算数",
+        "start_char": 19766,
+        "end_char": 19770,
+        "sentence": "图灵最重要的贡献无疑是他 1936 年的那篇文章《论可计算数》（On Computable Numbers, with an Application to the Entscheidungsproblem）， 其中他定义了一种机械装置，后来被他的导师丘奇称为“图灵机”",
+        "type_code": "WORK"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的作品实体，规范名称为“可计算数”。"
+  },
+  {
+    "id": "ENT_057",
+    "canonical_name": "戴维斯",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "戴维斯",
+        "start_char": 19547,
+        "end_char": 19550,
+        "sentence": "著名数学家、 逻辑学家戴维斯(Martin Davis)亲自在霍奇斯的《艾伦·图灵传: 如谜的解谜者》中写过一段评论，最后一句是：“对图灵的指控是悲剧，他应该被当作民族英雄",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“戴维斯”。"
+  },
+  {
+    "id": "ENT_058",
+    "canonical_name": "霍奇斯",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "霍奇斯",
+        "start_char": 19567,
+        "end_char": 19570,
+        "sentence": "著名数学家、 逻辑学家戴维斯(Martin Davis)亲自在霍奇斯的《艾伦·图灵传: 如谜的解谜者》中写过一段评论，最后一句是：“对图灵的指控是悲剧，他应该被当作民族英雄",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“霍奇斯”。"
+  },
+  {
+    "id": "ENT_059",
+    "canonical_name": "戈登·布朗",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "戈登·布朗",
+        "start_char": 19637,
+        "end_char": 19642,
+        "sentence": "2009 年，英国前首相戈登·布朗代表英国政府为图灵当年受到的不公正待遇公开致歉，2013 年他获得了英国皇家特赦，他终得平反",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“戈登·布朗”。"
+  },
+  {
+    "id": "ENT_060",
+    "canonical_name": "图灵奖",
+    "type_code": "AWARD",
+    "type_name": "奖项",
+    "mentions": [
+      {
+        "mention": "图灵奖",
+        "start_char": 19708,
+        "end_char": 19711,
+        "sentence": "为了纪念他的伟大贡献，ACM 还设立了图灵奖，被誉为计算机界的诺贝尔奖",
+        "type_code": "AWARD"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的奖项实体，规范名称为“图灵奖”。"
+  },
+  {
+    "id": "ENT_061",
+    "canonical_name": "冯诺依曼",
+    "type_code": "PER",
+    "type_name": "人物",
+    "mentions": [
+      {
+        "mention": "冯诺依曼",
+        "start_char": 19875,
+        "end_char": 19879,
+        "sentence": "冯诺依曼说这不仅奠定了计算的理论基础，也为现代计算机的工程实现指明了方向；哥德尔也认为图灵机比他自己的递归函数更令人信服",
+        "type_code": "PER"
+      }
+    ],
+    "kb_id": null,
+    "description": "从文本中抽取的人物实体，规范名称为“冯诺依曼”。"
+  }
+]
